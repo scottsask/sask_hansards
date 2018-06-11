@@ -11,6 +11,7 @@ from urlparse import urlparse
 from datetime import datetime
 import wget
 import time
+import os
 
 #There's an old ASP.net form sitting at this endpoint
 #We can fill it out, submit it, and get a listing of every Saskatchewan Legislature debate on record
@@ -22,6 +23,7 @@ session = requests.Session()
 #Request the page and parse its markup with BeautifulSoup
 meeting_selection_page = session.get(meetings_endpoint)
 soup = BeautifulSoup(meeting_selection_page.content, 'html.parser')
+
 
 #Find magic values we need in the soup to make a valid form submission
 #These are hidden inputs the ASP.net form requires to submit
@@ -39,21 +41,21 @@ form_body = {
     'VIEWSTATE': viewstate,
     'VIEWSTATEGENERATOR': viewstategenerator,
     '__VIEWSTATEENCRYPTED': '',
-    'ctl00$ctl00$MainContent$ContentBottom$ContextDropDownList':280140000,
-    'ctl00$ctl00$MainContent$ContentBottom$CategoryDropDownList':280140005,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlStartMonth':1,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlStartDay':1,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlStartYear':1947,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlEndMonth':12,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlEndDay':31,
-    'ctl00$ctl00$MainContent$ContentBottom$ddlEndYear':2016,
-    'ctl00$ctl00$MainContent$ContentBottom$ApplyFilterButton':'Go',
-    'ctl00$ctl00$MainContent$ContentBottom$txtStartYear':1947,
-    'ctl00$ctl00$MainContent$ContentBottom$txtStartMonth':1,
-    'ctl00$ctl00$MainContent$ContentBottom$txtStartDay':1,
-    'ctl00$ctl00$MainContent$ContentBottom$txtEndYear':2017,
-    'ctl00$ctl00$MainContent$ContentBottom$txtEndMonth':12,
-    'ctl00$ctl00$MainContent$ContentBottom$txtEndDay':31
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ContextDropDownList': 0,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$CategoryDropDownList': 280140005,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlStartMonth': 1,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlStartDay': 1,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlStartYear': 1947,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlEndMonth': 12,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlEndDay': 31,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ddlEndYear': 2018,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$ApplyFilterButton': 'Go',
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtStartYear': 1947,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtStartMonth': 1,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtStartDay': 1,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtEndYear': 2018,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtEndMonth': 12,
+    'ctl00$ctl00$ContentContainer$MainContent$ContentBottom$txtEndDay': 31 
 }
 
 #TODO:  The 'type' and location' selections posted here don't appear to work -- every type of content is returned in the date range regardless of 'type' and 'location' settings.
@@ -64,6 +66,7 @@ form_body = {
 response_post = session.post(url=meetings_endpoint,data=form_body)
 #The response we get should be a soupy DOM with a bunch of links to the hansards we want to download 
 hansard_debates_listing_soup = response_post.content
+print(hansard_debates_listing_soup)
 #Make that soup beautiful!
 soup = BeautifulSoup(hansard_debates_listing_soup, 'html.parser')
 
