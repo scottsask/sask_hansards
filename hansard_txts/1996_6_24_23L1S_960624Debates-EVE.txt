@@ -1,0 +1,3040 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June 24, 1996 Hansard Evening
+
+
+ LEGISLATIVE ASSEMBLY OF SASKATCHEWAN 3097 
+ June 24, 1996 
+ 
+
+EVENING SITTING 
+ 
+
+COMMITTEE OF THE WHOLE 
+ 
+
+Mr. Kowalsky:  Thank you, Mr. Chairman. I would request 
+leave of the House to introduce some guests. 
+ 
+Leave granted. 
+ 
+
+INTRODUCTION OF GUESTS 
+ 
+Mr. Kowalsky:  Mr. Chairman, there are two guests in your 
+gallery that I would like to introduce, two students from Vickers 
+School, Jennifer Brooks and her brother, Cameron. They’ve 
+come here to the legislature and they’re touring it today and 
+learning a little bit about government, and they want to sit here 
+and watch us. And they’ve brought their parents, Frank and 
+Joanne Brooks, to the legislature with them. And I would ask 
+all members to welcome them here to Regina. 
+ 
+Hon. Members: Hear, hear! 
+ 
+
+COMMITTEE OF THE WHOLE 
+ 
+
+Bill No. 82  An Act respecting Health Facilities 
+ 
+Clause 1 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. Mr. Minister, in 
+the piece of legislation that’s before us, we have been talking a 
+bit about insured health services and how it relates to this Act 
+along with private clinics in the province. I’m just wondering 
+why you deemed it necessary in the Act to include some 
+specific terminology under insured services, such as the 
+magnetic resonance imaging services, which is of course the 
+MRI (magnetic resonance imaging) or the computerized axial 
+tomography or the CAT (computerized axial tomography) scan 
+and the diagnostic and therapeutic radioisotope procedures in 
+nuclear medicine. Why did you have those specifically listed? 
+ 
+Hon. Mr. Cline:  The reason for the inclusion of those 
+services is they are not actually insured services within the 
+meaning of The Saskatchewan Medical Care Insurance Act, but 
+they are services that the province pays for so they are included 
+specifically. 
+ 
+Mr. McLane:  Is there any thought then, Mr. Minister, to 
+having those included under the medical insurance Act, and the 
+reasoning that they are not under that to begin with? 
+ 
+Hon. Mr. Cline:  We’ll certainly take that suggestion under 
+advisement. At the present time, since they’re not insured 
+services, they have to be referred to specifically in this 
+formulation of the legislation. 
+ 
+Mr. McLane:  You’ve talked considerably about the insured 
+services as being part of services that are carried on in hospitals 
+in the province. Is that the only place that we have insured 
+services being provided for? 
+ 
+
+Hon. Mr. Cline:  No, that is not the only place that insured 
+services are provided. Obviously, insured services are provided 
+at doctors’ offices as well. 
+ 
+The intent of this legislation however, is not to interfere with 
+what goes on in doctors offices; it’s intended to deal with 
+services that are provided in hospitals. And it’s intended to say 
+that we ought not to have private facilities competing with 
+hospitals, requiring people to make payment for medical 
+services, that those services should be provided through tax 
+money, publicly, in the public sector. 
+ 
+Mr. McLane:  So then when we’re referring to the licensing 
+of agencies or facilities throughout the province, what exactly 
+does that pertain to then, Mr. Minister? 
+ 
+Hon. Mr. Cline:  What section is the member referring to? 
+ 
+Mr. McLane:  No particular section, Mr. Minister, I’m just 
+talking about the licensing of facilities. When you’re talking 
+about facilities needing a licence, are we only talking about 
+hospitals; or are we talking about some of these offices that do 
+provide some insured services? 
+ 
+Hon. Mr. Cline:  We’re talking about private facilities that 
+would provide insured services. Those facilities would be 
+required to be licensed. 
+ 
+Mr. McLane:  And those would include doctors’ clinics, any 
+other facility that would provide that service? 
+ 
+Hon. Mr. Cline:  Doctors’ clinics per se would not be 
+covered by the legislation except to the extent that they would 
+purport to provide insured services that are normally provided 
+in hospitals. If a doctor’s clinic purported to go beyond what 
+they presently provide to provide a service that is presently 
+provided in a hospital, the doctor’s clinic would have to be 
+licensed for that purpose. 
+ 
+Mr. McLane:  Could you give us an example of that service 
+that would be . . . that would require the license? 
+ 
+Hon. Mr. Cline:  Yes, if a physician, for example, wanted to 
+do cataract surgery in his or her office, that’s a service that is 
+normally provided in a hospital at the present time which is an 
+insured service. If a physician wanted to set up a clinic in his or 
+her office to provide cataract removal, the physician would 
+have to be licensed for that purpose. 
+ 
+Mr. McLane:  Thank you, Minister. Going back to the 
+accreditation operator, for example, the member from Wood 
+River has talked a bit about the powers that this Act does give 
+to the minister in charge. And that certainly applies to the 
+accreditation program and the operator, whereas, of course, the 
+operator would be . . . could actually be chosen by you, and the 
+program can as well be dictated by you and certainly you have 
+the right to withdraw a licence from an agency or the right to 
+grant one. That’s pretty broad power for the Minister of Health 
+as I see it. 
+ 
+
+
+
+3098  Saskatchewan Hansard June 24, 1996 
+
+And I’m just wondering, why do you think that it needs to be 
+that way as opposed to a laid-out criteria reviewed by some sort 
+of an advisory board or a group of that nature. 
+ 
+Hon. Mr. Cline:  These are broad powers. I would not 
+describe them as unusual powers. The reasons for a licensing 
+provision would be to ensure that any private facility that 
+wanted to be licensed to provide ensured services within the 
+medicare system should be publicly accredited in a public way 
+to ensure that standards relating to competence and public 
+safety were met. 
+ 
+Mr. McLane:  Okay, thank you, Mr. Minister. As the 
+licensing agreement works for the individual agencies now . . . 
+Of course within the districts you have the affiliates, and you 
+also have other agencies as I alluded to in an earlier discussion 
+today. What is the procedure for those agencies to ask for a . . . 
+request a licence? Is it up to the district to request it on behalf 
+of all agencies within the district, or are the affiliates and the 
+others separate applications? 
+ 
+Hon. Mr. Cline:  Affiliates are specifically excluded from 
+the definition of health facilities in section 2(1)(i), so they are 
+not required to be licensed pursuant to this Act. 
+ 
+Mr. McLane:  And the other agencies within a district, 
+where they might not be an affiliate, who applies for the 
+licence? 
+ 
+Hon. Mr. Cline:  They would apply to the minister for a 
+licence. 
+ 
+Mr. McLane:  The individual agency would apply for the 
+licence? 
+ 
+Hon. Mr. Cline:  The operator, that’s correct. 
+ 
+Mr. McLane:  For example, in the matter of the General 
+Hospital in Regina, it would be the General Hospital that would 
+apply for the licence, or . . . 
+ 
+Hon. Mr. Cline:  No, the General Hospital is operated by the 
+Regina Health Board. They would not be required to apply for a 
+licence pursuant to this Act. 
+ 
+Mr. McLane:  Anybody that’s . . . let me ask you this 
+question then, Mr. Minister. Anybody in the province that is 
+providing an insured service has to have a licence under this 
+Act; is that correct? 
+ 
+Hon. Mr. Cline:  That is not correct. 
+ 
+Mr. McLane:  Could you then explain who needs a licence 
+under this Act? 
+ 
+Hon. Mr. Cline:  Yes. An operator defined as a health 
+facility would need a licence under this Act. A health facility 
+would be a place that provides an insured service that is 
+presently provided in a hospital. 
+ 
+But according to section 2(1)(i) of the Act: 
+
+“health facility” means . . . (a) place . . . where a 
+diagnostic or therapeutic medical procedure is provided, 
+but does not include: (if the member would look at the first 
+page of the Bill): 
+ 
+. . . a place or facility operated by the minister, a district 
+health board or an affiliate, as defined . . . (by) The Health 
+Districts Act; 
+ 
+
+In other words, the sorts of places we would expect at the 
+present time would be providing health services, such as 
+hospitals or clinics run by the province or affiliates, do not need 
+to be licensed. But if somebody comes in and they want to 
+provide an insured service  that is, a service covered by 
+medicare  for profit and for fee, they have to be licensed by 
+the public through the provincial government. 
+ 
+Mr. McPherson:  Thank you, Mr. Chair. Mr. Minister, you 
+know obviously when we’re going through the licensing 
+requirements, you of course have a lot of control, which is a bit 
+of a surprise then when we see that beyond the control and 
+beyond everything you can do in regulation in controlling who 
+gets a licence and for what, then you can attach terms and 
+conditions onto the licence, as in section 8. So can you give us 
+some examples of terms and conditions that you would impose? 
+ 
+Hon. Mr. Cline:  It’s possible, for example, that a person 
+applying for a licence may be competent to provide a procedure 
+in one manner but not another manner. And the accreditation 
+committee which would be a committee of the college of 
+physicians and surgeons . . . (inaudible interjection) . . . I think 
+the member, Mr. Chair, is indicating that he’s having difficulty 
+hearing me so I’ll repeat the answer. 
+ 
+It is possible that the accreditation committee of the college of 
+physicians and surgeons may approve someone applying for a 
+licence to perform a procedure in one manner but not another 
+manner. So putting a condition on the licence that the operator 
+could perform the procedure in the manner approved by the 
+college would be an example of the sort of condition that you 
+might want to attach to the licence, out of reasons pertaining to 
+consumer protection and public safety. 
+ 
+Mr. McPherson:  Are any of the terms and conditions that 
+you place upon those that require a licence . . . could you in fact 
+impose terms and conditions that would move them beyond 
+where they would  Mr. Chair, it’s getting a little noisy in here 
+ take them beyond where in fact they would rather not go? 
+ 
+Let me give you an example of affiliates that . . . Because 
+they’re still going to need a licence if they’re going to have 
+insured services offered in . . . Oh they’re not? Oh well then 
+you might as well stop me there and fill me in on . . . 
+ 
+Hon. Mr. Cline:  As I just indicated to the member from 
+Arm River a few minutes ago, health facility, if you turn to the 
+first page of the Bill, it does not include a place operated by the 
+minister, a district health board, or an affiliate. 
+ 
+An Hon. Member:  Where are you looking? 
+ 
+
+
+
+June 24, 1996 Saskatchewan Hansard 3099 
+
+Hon. Mr. Cline:  I am looking on the first page of the Bill, 
+section 2(1)(i), which says, “health facility” means . . . And as 
+you can see, it says it means a place or facility where a medical 
+procedure is provided but does not include, and the first 
+subclause is: a place or facility operated by the minister  that 
+would be a provincial facility  or operated by a district health 
+board or an affiliate. 
+ 
+Mr. McPherson:  Well then, Mr. Minister, let’s just back up 
+to the affiliates. Can you tell us how they have their licensing? 
+ 
+(1915) 
+ 
+Hon. Mr. Cline:  They’re licensed under The Hospital 
+Standards Act. And standards under The Hospital Standards 
+Act and The Health Districts Act apply to them. 
+ 
+Well, Mr. Chair, I believe the member from Wood River is 
+having difficulty hearing my answers and I certainly don’t want 
+the member from Wood River to have difficulty hearing my 
+answers. And I think the member is raising a point of order 
+without raising a point of order that he would like the House 
+brought to better order, as I understand it. 
+ 
+The Chair:  If the member would like to raise a point of 
+order on the decorum of the House then he could rise in his 
+place and do that. 
+ 
+Mr. McPherson:  Well then, Mr. Chair, I will rise on a point 
+of order on the decorum and the noise that’s in the House but I 
+shouldn’t have to. 
+ 
+Hon. Mr. Cline:  Well I sympathize actually with the 
+member from Wood River. If he asks a question and I’m giving 
+the answer he’s entitled to be able to hear the answer, as far as 
+I’m concerned. And the answer is . . . I almost forget the 
+question. 
+ 
+But the answer is that the affiliates are approved under The 
+Hospital Standards Act and they must meet standards under The 
+Hospital Standards Act and The Health Districts Act. Their 
+status is not affected one way or the other by this legislation. 
+ 
+Mr. McPherson:  Thank you, Mr. Minister. I see in section 
+14 there’s additional information there: 
+ 
+
+14(1) The minister may: 
+ 
+(a) request from a licensee any information that the 
+minister reasonably requires for . . . 
+
+ 
+Give us some examples of what you would reasonably require 
+for the purpose of this Act and why you would have to have a 
+special section just for additional information. 
+ 
+Hon. Mr. Cline:  Well for example, you might want to know 
+the qualifications of the licensee. That is, whether the licensee 
+met the qualifications under The Medical Profession Act and 
+was properly licensed pursuant to that Act, and whether the 
+facility proposed to be used by the licensee met public health 
+requirements. 
+
+Mr. McLane:  Thank you, Mr. Chair. Mr. Minister, could 
+you describe briefly for us how an insured service is brought 
+into the . . . or brought under The Saskatchewan Medical Care 
+Insurance Act. Who decides what’s going to be an insured 
+service under that Act? 
+ 
+Hon. Mr. Cline:  They are medically necessary services, and 
+the cabinet has the power to specifically include or exclude 
+medical services in the case of any doubt. 
+ 
+Mr. McLane:  Thank you. So then, Mr. Minister, under the 
+regulations portion of this Act, 29(d) to be . . . example, where 
+it talks about prescribing: 
+ 
+
+The Lieutenant Governor in Council may make 
+regulations: 
+ 
+(d) prescribing medical procedures that are insured health 
+services; 
+ 
+
+So basically, you have the total discretion as to what will be an 
+insured health service. 
+ 
+Hon. Mr. Cline:  Not quite. If you look at the definition 
+section with respect to insured health services, certain services 
+are set out which can be considered insured health services. 
+And the regulation must be considered within the context of 
+that provision as well. 
+ 
+Mr. McLane:  Thank you. Then in 29(e) it also gives you the 
+power to prescribe a place or facility that are not health 
+facilities. So then you could actually designate a facility as a 
+health facility that isn’t one at this present time? 
+ 
+Hon. Mr. Cline:  No, that section says the opposite of what 
+the member is saying. 
+ 
+Mr. McLane:  Could you explain that to us then, Mr. 
+Minister? It seems to me quite clear that you may make 
+regulations to prescribe places and facilities that are not health 
+facilities. So you could indeed create a health facility. 
+ 
+Hon. Mr. Cline:  No, it is the opposite. The member is 
+saying, you could create a health facility. What the clause the 
+member is reading says is that you could prescribe a place or 
+facility not to be a health facility. So it is the opposite of what 
+the member is saying. 
+ 
+Mr. McLane:  Well I beg to differ with the minister. 
+Reading that, one of the first things that comes to mind when I 
+read it, and as I read it over and over, it to me doesn’t say that, 
+what you’re saying it says. I think it says that you can actually 
+create a health facility. Maybe we’ve got a problem in 
+terminology here that needs to be changed and maybe there’s a 
+difference from you being a lawyer and me being a farmer that I 
+don’t understand that. But when I read it, and I read it over, 
+that’s not the impression that I get. 
+ 
+Hon. Mr. Cline:  Well I’m sorry if we have a 
+misunderstanding. But what the clause the member is referring 
+to says is that, going back to the beginning, it says that the 
+
+
+
+3100  Saskatchewan Hansard June 24, 1996 
+
+cabinet  it says Lieutenant Governor in Council, but it means 
+cabinet  may make regulations, and then it says, (e) 
+“prescribing places and facilities that are not health facilities.” 
+Therefore what it says is the cabinet can make a regulation 
+saying something is not a health facility. The member is saying, 
+this gives you the power to say something is a health facility. 
+And what I’m trying to say to the member, and I don’t think 
+you have to be a Philadelphia lawyer to say this, is it doesn’t 
+say that the cabinet can say something is a health facility. It says 
+the cabinet can say something is not a health facility. 
+ 
+Now why does it say that? It says that because, as we talked 
+about this afternoon, there are certain services and facilities 
+where you may wish to make a decision that this should not be 
+caught by the Act, that there are some services that should be 
+provided in the private sector that need not be within the public 
+medicare system. And obviously this clause would be intended 
+to jibe with what we were talking about before, that although 
+the goal of the legislation is to say that medically necessary 
+services should be provided within the public system, there may 
+be some services that ought not properly to be provided in the 
+public system, and this is one of the clauses that would enable 
+government to do that. 
+ 
+Mr. McLane:  Thank you, Mr. Minister. I guess I’ll have to 
+take your word for that, but I would almost have thought that a 
+group of educated lawyers maybe could have come up with a 
+little better phrasing of that particular line. Moving on to 
+section (h) of 29 within your regulations, is that pertaining 
+whatsoever to affiliates? 
+ 
+Hon. Mr. Cline:  Nothing in this Bill pertains to an affiliate 
+because an affiliate is not a health facility within the meaning of 
+this legislation. 
+ 
+Mr. McPherson:  Thank you, Mr. Chair. Mr. Minister, in 
+section 16 it deals with the opportunity to be heard: 
+ 
+
+16(1) The minister shall not amend a licence, suspend or 
+cancel a licence or refuse to issue or renew a licence 
+without giving the applicant or licensee, as the case may 
+be, an opportunity to be heard. 
+ 
+
+Can you explain to the House what this means? How would 
+they be heard? 
+ 
+Hon. Mr. Cline:  What it means is that if somebody makes 
+an allegation against someone operating a health facility, which 
+allegation might be serious enough to cause the minister to 
+suspend or cancel a licence or refuse to renew a licence, the 
+minister would not do so without giving the licensee against 
+whom the allegation was made an opportunity to give his or her 
+side of the story. 
+ 
+Mr. McPherson:  So what would they do then, Mr. 
+Minister? Would they come to you in your office or is there 
+some sort of a tribunal or go to the courts? What would be the 
+process? 
+ 
+Hon. Mr. Cline:  It would not involve a court proceeding. It 
+would involve affording them the opportunity to present their  
+
+side of the story. And the legislation would not require any 
+particular sort of hearing, and it wouldn’t necessarily be a 
+formal hearing. 
+ 
+If I was involved in this kind of situation, I think it would 
+involve the people coming to my office and, having been given 
+notice of what was alleged against them, having the opportunity 
+to prepare their side of the story and then to actually tell me in 
+their own words, in whatever manner they thought appropriate, 
+what they thought the situation was. So I think I would sit down 
+with them. 
+ 
+Other ministers might take a different approach. They might say 
+that it should be in writing or in the form of an affidavit. The 
+legislation is not clear. This is not an uncommon provision in 
+legislation. But the point is the person against whom the 
+allegation is made has the right to be fully and fairly heard. And 
+I feel that, you know, the best way to do it probably is to sit 
+down with them. But other ministers may have a different view. 
+ 
+Mr. McPherson:  Mr. Minister, don’t you think it would be 
+much more appropriate in fact without having to come to your 
+office and convince you personally that in fact there perhaps is 
+no basis for the allegations, that it should go before a panel of 
+professional people or people who deal in the health care field 
+that could give this a more . . . a hearing which would be 
+somewhat more broad than perhaps what they would have in 
+your office? 
+ 
+Hon. Mr. Cline:  No, I don’t feel that’s necessary because it 
+is implied by the principles of our law that people have to be 
+given a fair hearing, and if that is not done, then the minister 
+would be subject to a judicial review in the courts. But 
+moreover, if the minister made a decision which was contrary to 
+law, which would include not giving the people a fair hearing, 
+then pursuant to section 17, which is the following section, the 
+aggrieved party would have the right to appeal to the Court of 
+Queen’s Bench. So that if the person was not fairly dealt with, 
+there would be procedures under the law which would be 
+available to the licensee. 
+ 
+(1930) 
+ 
+Mr. McPherson:  Oh well, Mr. Minister, that’s interesting 
+that then you would talk about clause 17 with the appeals 
+because clause 17 deals with any decisions on a question of law 
+only. So it’s not dealing with in fact concerns that would be 
+dealt without outside of the Act, you know, perhaps where 
+some would say, you know, where we live in reality. But you’re 
+talking about dealing only with the legal aspect of the Act itself 
+when you’re dealing with the question of law only, so that I 
+don’t think is much of an appeal process. 
+ 
+Because firstly, if in fact the opportunity to be heard is going to 
+happen in your office and the only appeal is whether or not you 
+followed the law, it sounds a lot like the North American Free 
+Trade Agreement, and I recall your party was fairly firm on 
+saying that we shouldn’t look at, you know, the question of law 
+only, that it should be broader than that. 
+ 
+And so I could only think that you would want . . . I notice the  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3101 
+
+Leader of the Third Party is really chirping in and I hope that 
+he’s that anxious to talk when it’s back to The Election Act 
+tomorrow because he’s got a lot to say on that. 
+ 
+Now if in fact we’re talking about a decision on a question of 
+law only  Mr. Chair, we absolutely have no control in this 
+House tonight, do we?  a decision on a question of law only, 
+so when we get to that clause, Mr. Minister, I think that we 
+have to broaden clause 17. 
+ 
+So at that point, I will be moving an amendment to clause 17 of 
+the printed Bill by deleting from subsection (1), the words “on a 
+question of law only” and adding immediately after the words 
+“judge of the Court of Queen’s Bench” the following: 
+ 
+
+on any question of law; or on the ground 
+ 
+(a) that there has been a breach by the minister of a 
+provision of the statute that is relevant to the decision 
+appealed; 
+ 
+(b) that the decision is founded on an erroneous 
+apprehension of fact or that the minister has, in making the 
+decision, failed to take into account all relevant facts; or 
+ 
+(c) that the minister in making the decision has not 
+afforded the person a reasonable opportunity to be heard or 
+has otherwise not acted in accordance with the principles 
+of fundamental fairness. 
+ 
+
+So when we get to that clause, I will move that amendment. But 
+for now we’ll send it forward. And I’ll send a copy, Mr. 
+Minister, wherever . . . so, Mr. Minister, we’ll send a copy of 
+that over to you right away. 
+ 
+And basically what we’re saying here is that it’s just going to 
+broaden it somewhat so that we’re not dealing with a question 
+of law, only in fact. And you may well, as the minister, being in 
+the position where in fact if they’re coming to your office to 
+look at this opportunity to be heard under section 16, you may 
+well want to have a little more latitude there by them also. So I 
+think you could see that it’s something positive. 
+ 
+Hon. Mr. Cline:  Well we’ll certainly take that under 
+advisement and I thank the member for those helpful 
+suggestions which we will look at quite seriously even as we 
+continue to speak. 
+ 
+Mr. Aldridge:  Thank you, Mr. Chairman. Good evening, 
+Mr. Minister, and to your official here this evening. 
+ 
+I’ve listened this afternoon and this evening to the discussions 
+back and forth here. And what really strikes me the most about 
+this very Bill is just its very presence. What would cause the 
+need for such a Bill as this? 
+ 
+Now I’ve heard the minister talk that it’s to defend public 
+policy. But then I’ve also heard the minister say that there are 
+no private facilities at this point in time in the province that 
+would require to be regulated by an Act such as this. 
+ 
+
+I’ve also heard, well I guess the same line of argument, that it’s 
+preventative in nature. So if that is the case then it would seem 
+perhaps that you have had private facilities perhaps threaten to 
+come to our province and to open up shop, so to speak. 
+ 
+Would you be able to elaborate on that? Detail perhaps what 
+facilities may have actually threatened to come to the province 
+and set up shop in that fashion? If you might just comment on 
+that. 
+ 
+Hon. Mr. Cline:  Is the member referring, Mr. Chair, to 
+private facilities which would provide insured services under 
+the medical care insurance Act? 
+ 
+Mr. Aldridge:  Yes, I am referring to that very thing  
+private facilities which would be offering insured services 
+under the medical insurance Act. 
+ 
+Hon. Mr. Cline:  I cannot refer the member to any particular 
+applications in that regard. 
+ 
+Mr. Aldridge:  Well that would seem quite strange to me 
+then. We’re talking about introducing a piece of legislation here 
+that we’re arguing is in the public good, but there is no facilities 
+of this nature presently in the province that require the public to 
+be defended from. And you’re also saying that there are no 
+facilities that have ever . . . or there’s nobody that’s came and 
+threatened that they might open these sorts of facilities in this 
+province. 
+ 
+So that would almost suggest to me that perhaps what we’re 
+creating here more than anything is perhaps a bit of a paper 
+tiger on the part of this government. Perhaps maybe the real 
+reason for this very Bill is more a political one than it is a 
+public policy one. 
+ 
+It would seem that perhaps given the government’s record of 
+damaging our health care system in this province, that a paper 
+tiger at this time would serve their political interests quite well. 
+ 
+If you set up a notion that you have to defend from these sorts 
+of facilities entering the province, when in actual fact you’re 
+saying that there hasn’t even been any, well as I say, a paper 
+tiger like that might serve you quite well to deflect criticisms 
+off of your government for what has been a failing record in 
+terms of health care in this province. Could you maybe just 
+make some comments on that? 
+ 
+Hon. Mr. Cline:  Yes, I’d be happy to comment on that, Mr. 
+Chair. I’ll modify my last answer to the member by saying that 
+actually there was a group of one or more ophthalmologists, I 
+believe in Saskatoon, within the last few years that wanted to 
+set up a private clinic to do cataract removal. And it was 
+indicated to them by government that government would not be 
+supportive of that measure. 
+ 
+Yes, the Bill is preventive. We are saying as a government that 
+we believe in the medicare system and that medical costs 
+should be shared by the people and paid for through the tax 
+system as opposed to the U.S. (United States) style of medicine. 
+And the member says, is that a political statement? Yes, in one  
+
+
+
+3102  Saskatchewan Hansard June 24, 1996 
+
+sense that is a political statement. And let me say also to the 
+member that opposition to that principle, opposition to 
+medicare, opposition to sharing medical costs as we do in this 
+province, your opposition to that also, if I may say so, is a 
+political statement on your part. 
+ 
+Mr. Aldridge:  Well, Mr. Minister, we already have a 
+publicly funded system of health care and that’s thanks to the 
+Canada Health Act. And a universal system of access and 
+single-payer system should entail that no one would ever want 
+to use a private facility for insured services such as what we’re 
+defending the public from here tonight. 
+ 
+If a universal single-payer system was working properly in our 
+province, then there would be nobody knocking at the doors of 
+such facilities as this asking for insured services of them. What 
+this is here tonight, is an expression of the failure of your 
+government in terms of underfunding health care in this 
+province. 
+ 
+This is you trying to do some damage control; trying to create, 
+as I say, a paper tiger  a paper tiger that you can go and 
+defend the people of this province from when in fact, you’ve 
+told us here tonight, you’re defending the people of this 
+province from maybe a couple of ophthalmologists. That’s the 
+only example that you can recall in the past couple of years. 
+ 
+So what I would suggest here is that what you’re trying to cover 
+up here more than anything in introducing an Act like this, is 
+the very fact, as I say, that you’re grossly underfunding our 
+universal health care system in this province. Otherwise you 
+wouldn’t have anybody interested in that. So you might just 
+want to comment on that. 
+ 
+Hon. Mr. Cline:  Well I disagree with the member. The 
+history of the province is of course . . . The member refers to 
+the establishment of public health care in this country and refers 
+to the Canada Health Act. I want to say to the member, who 
+may not be aware of this, that actually hospitalization was 
+pioneered in this province in 1948 by the government of T.C. 
+Douglas over the opposition of your party. Medicare was 
+established in 1962 in this province under the leadership of 
+Woodrow Lloyd over the opposition of your party. 
+ 
+The Liberal Party and the Canada Health Act came a little bit 
+later. But I will say to the member that at least with the federal 
+Liberals, they adhere to the principles of the Canada Health Act 
+and have convinced the province of Alberta to adhere to 
+principles such as are in this Bill, i.e., that we should have a 
+public medicare system. 
+ 
+The Saskatchewan Liberal Party stands alone as a Liberal Party 
+in opposition to this kind of legislation. It is the policy of the 
+Liberals in Ottawa to support the Canada Health Act, to support 
+the public medicare system, at least in words, although in 
+funding the federal government and the Liberals are 
+withdrawing funding. 
+ 
+But this party of 10 people in this legislature, in terms of having 
+a right-wing, pro-U.S. style of medicare viewpoint, stands alone 
+among Liberals in Canada as I know it. Very right-wing party.  
+
+Perhaps trying to outdo the third party, the Conservatives, who I 
+understand also oppose this legislation. 
+ 
+But your thinking that we should have an American-style health 
+care system, I suggest to you is not mainstream thinking in 
+Canada today. 
+ 
+Mr. Aldridge:  Mr. Chairman, and Mr. Minister, I don’t 
+know where you get these words to put in my mouth but it 
+certainly isn’t the case, what you’re suggesting there. 
+ 
+But you know what? I would just like to know, if you’re out 
+defending the public here in this regard, how many people, how 
+many groups, approached you about establishing this very 
+legislation here today? How many people did you consult with? 
+Because I would maintain we’re more in tune with what the 
+people in this province have to say about health care than what 
+any member opposite is. 
+ 
+So what groups have you consulted with? What groups came 
+forward saying, we want this particular piece of legislation? 
+What groups did you consult in with respect to drafting copies 
+of this Bill up? 
+ 
+Hon. Mr. Cline:  We consulted with the Saskatchewan 
+Medical Association, the College of Physicians and Surgeons of 
+Saskatchewan, the Saskatchewan Association of Health 
+Organizations, the chiropractors association, the Saskatchewan 
+Association of Optometrists, and the Saskatchewan 
+physiotherapy association. I believe we have also spoken to 
+representatives of the Saskatchewan health care coalition and 
+individual members of the Saskatchewan association for 
+community clinics. 
+ 
+(1945) 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. Thank you. I think 
+the member for Thunder Creek has some valid points. And it’s 
+always nice to hear the chirpers from the third party chiming in. 
+It’s very unusual that we ever hear them because it’s most 
+unusual that they’re ever here. And I’m very happy to hear them 
+tonight, that there’s at least one over there that’s listening to the 
+discussion. 
+ 
+Mr. Minister, back in 1991-92 when your government was 
+proceeding with the wellness model and the health reform, a lot 
+of people in the province had hoped that that would mean 
+exactly what it says  a true health reform taking into 
+consideration all the options that we have in a great province 
+like Saskatchewan. And recognizing that times do change, Mr. 
+Minister, times have changed since 1948 and they will continue 
+to change over the next two or three decades of which we’re 
+going to be around in this province, I hope. 
+ 
+And so people were really hoping that the health reform would 
+turn into exactly that, and really it hasn’t, Mr. Minister. We hear 
+you saying on your side of the House . . . and that’s fair, you 
+have your arguments for defending Tommy Douglas and all he 
+did, and what medicare stands for, and it shouldn’t change. And 
+irregardless of how many people are hurt by that, how many 
+people are suffering on waiting-lists or having to go  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3103 
+
+out of province or out of country for their services, we can’t 
+veer from that because that’s the old myth of party line, the old 
+socialist philosophy and the old riding-on-the-back-of-medicare 
+and Tommy Douglas. 
+ 
+But the people are clearly saying, as you heard us in question 
+period today, saying, hey things have to change. And we’re not 
+advocating that we throw out the Canada Health Act and that 
+we don’t have a publicly funded system, but we’ve got to look 
+at other options to augment that system. And that’s what people 
+are asking for. That’s what people are wanting to do. 
+ 
+In this Act, under this legislation, you really have all the powers 
+that it takes, Mr. Minister, whether it’s you or your predecessor, 
+or someone that will be deemed to look after health in the 
+government of the day, by controlling everything. And most of 
+it’s done through the regulations. 
+ 
+And you keep talking in this House about the powers that the 
+district health boards have got; that you’ve devolved the power 
+from the provincial government down to the district health 
+boards. You’ve devolved a lot of debt down to them but I’m not 
+sure how much power has gone down to them, Mr. Minister. 
+ 
+And under the regulation you talk again, and of course you say 
+that this Bill doesn’t really apply to the health districts or any of 
+their agencies or any government-run agencies, but indeed it 
+does. When you’re affecting . . . whether you’re talking about 
+the quality and standards of service to be provided at the health 
+facility, you’re talking about construction, alteration, 
+maintenance, repair, and location of health facilities under the 
+regulations as it pertains to another private clinic, you’re 
+basically dictating to the health districts what they’re going to 
+have. They’re not going to have anything different in the 
+district. You’re going to decide what they can have out in those 
+health districts. 
+ 
+So where does the power come from, Mr. Minister? What 
+powers do the district health boards have? They’re limited by 
+the funding; you’ve done a great job of that. You’ve got them 
+limited to what they can have for funding in this province 
+through your grants to them. They have no other way of raising 
+money. You’ve looked after that. And now you’ve got people 
+out there saying, hey, we’re not prepared to let our health 
+facility or any beds close in our community, and we’re prepared 
+to do whatever it takes to get that done. And the people in 
+Central Butte and the people in Canora and Kamsack and all 
+over this great province of ours are saying, hey, we’re not 
+prepared to sit back and let our services be eroded by a 
+government that’s not willing to look at the big picture. 
+ 
+And so when you’re talking about private clinics and other 
+people providing services in this province, you’re not being 
+very open-minded. And people out there recognize that, and 
+they’re getting a little perturbed with you, to be quite frank. 
+And so they’re prepared to put in some dollars. Your 
+government’s not prepared to look at any other options. 
+ 
+People in Central Butte, the night we were out there, were 
+talking about 30, $40 a person. That’s what they talked about. 
+And they had worked out some numbers, and they felt they  
+
+could sustain some services they deemed valued and necessary 
+within their community. And that’s the type of dollars they 
+were looking at per capita. The people in Kamsack-Canora area, 
+they had similar views, different dollar figures, but not very 
+high. 
+ 
+Shortly after those discussions, Mr. Minister, I heard you say 
+that, hey, we’re looking at at least a thousand dollars. Now to 
+me, that’s fearmongering. You’re trying to scare people off, 
+saying, oh, we got to have a large amount of money if we’re 
+going to sustain some of these things. Well that’s not true, Mr. 
+Minister, and you know it isn’t. 
+ 
+So why aren’t you prepared to look at some other options? Why 
+isn’t your government prepared to be open-minded on health in 
+a society where things are changing? Your Premier, your leader, 
+talks about, in the last election, looking out the window and 
+looking into the new millennium and making some changes and 
+doing it the Saskatchewan way. And all we ever hear is about 
+what the Americans . . . how bad their system is. And we 
+certainly don’t want to get into a situation where we’ve got 
+American Medicare, that’s for sure. What you’re talking about 
+. . . our neighbouring provinces and what they’ve done and how 
+they’ve hurt us and how the federal government isn’t doing this 
+or that. 
+ 
+But at least the people here are willing to look at some options. 
+And you’ve got an opportunity here to make some changes and 
+to really save medicare in this province. Because if we don’t 
+make some of those changes, we’re going to have a lot of 
+people dying on routes to hospitals that are many, many miles 
+too far away for them and any services that they can’t access. 
+ 
+So I think that you’re not being very open-minded, Mr. 
+Minister. And I guess the questions would be, is why aren’t 
+you? 
+ 
+Hon. Mr. Cline:  In answer to the member’s question and 
+statement, let me say that one of the things that the minister 
+should do under this legislation in deciding whether to license a 
+private facility is consult with the district health board. The 
+district health board and the community should have some say 
+as to whether we go into private facilities. 
+ 
+The member raises the question of premiums and I realize that 
+premiums have been proposed, as I think user fees are 
+proposed, by the Liberal Party, with respect to the health care 
+system. Let me say to the member that the reason I have 
+difficulty with his suggestion is . . . first of all let me say that if 
+people in a particular municipality, through that municipality, 
+want to raise money to give to the health board to put toward a 
+particular facility or program, there’s nothing stopping people 
+from doing that. If people want to raise money in that manner 
+collectively and pool the money, make a deal with the health 
+district board that they will raise a certain amount of money and 
+give it to the board and the district will do something in return, 
+there’s nothing in law that says they can’t do that. In fact the 
+law contemplates that they will do that. 
+ 
+But I want to say to the member that when you propose a 
+medicare premium, let me remind you that in the province of  
+
+
+
+3104  Saskatchewan Hansard June 24, 1996 
+
+Alberta, the premium for a family is 900-and-some dollars per 
+person. In the province of British Columbia, it’s some . . . per 
+family, I should have said. In the province of British Columbia, 
+it’s some similar amount. What I am saying is that we should 
+raise the money to pay for health care through the income tax 
+system. Why do I say that? Because first of all it is a 
+progressive system in the sense that, if I make $80,000 per year, 
+I pay a certain amount of income tax and somebody that makes 
+$30,000 a year pays a lesser amount of income tax. The tax 
+system is progressive in that sense. If you have a premium 
+where everybody pays $900 per year for their family, then if I 
+make $80,000 a year, I pay $900. If I make $30,000 a year, I 
+pay $900. And I say that’s not fair, because those who have 
+more wealth should pay more  a very simple principle. It’s 
+the principle of progressive taxation. 
+ 
+There’s a second reason. The second reason is, if I have a 
+premium where everybody has to pay a certain amount of 
+money for their family for medical care, then I as a province 
+have to set up an administration to collect that money. You 
+have to pay for a bureaucracy to collect that money. If you do it 
+through the income tax system, Revenue Canada, which is 
+already in place and collects our provincial income tax, simply 
+collects the money. It makes more sense to do it that way. 
+ 
+Reason number three: if you have a medical care premium, as 
+the Liberal Party of Saskatchewan proposes, then if I don’t pay 
+the premium, because of provincial bureaucracy that you have 
+to set up to collect it, doesn’t get it  it isn’t paid in  you 
+haven’t paid it, you show up at the hospital; what am I going to 
+do as a health care system? Am I going to say you can’t go into 
+the hospital or go to the doctor because you haven’t paid your 
+premium? No, that’s not a humane system and that’s not the 
+way we should go. 
+ 
+The system we have now is the best system. And if I may close 
+on this point, I would rather have our medicare system where 
+we pay for it through the income tax system, than have the 
+American system where you might pay $9,000 per year for 
+medical care coverage through a private insurance company. 
+But there’s deductibles, so that if I have a baby I pay $9,000 
+U.S. extra, but if it’s a Caesarean section maybe $13,000 extra. 
+It doesn’t cover everything. Forty million people are uninsured 
+and health care costs continue to be the leading cause of 
+personal bankruptcy in the United States. 
+ 
+And you get people like Preston Manning  and sometimes 
+representatives of the Saskatchewan Liberal Party  who say 
+that we should go for a two-tiered system. Cut our taxes, get rid 
+of our medicare system, and have some kind of private system. 
+To which I say, to Preston Manning and the Saskatchewan 
+Liberal Party, I can cut your taxes. I can cut your taxes by 
+thousands of dollars tomorrow. I can just get rid of the public 
+medicare system. But then what I have to do is say okay, your 
+income taxes are lower, but as in the United States, you have to 
+go out and pay $9,000 to get some kind of private insurance 
+that isn’t going to cover you for everything anyway, and there 
+are deductibles, and every time you get sick it’s like going to 
+SGI (Saskatchewan Government Insurance)  the adjuster  
+you have to justify that you should get treatment. 
+ 
+
+And so I plead with the Saskatchewan Liberal Party to get off 
+this kick of privatization of medicare. And the member from 
+Wood River objects to my saying that, but what we have heard 
+in this session is the member from Kelvington-Wadena saying 
+we should go to a U.S. style of medicine because she says it’s 
+more compassionate  which I reject because people aren’t 
+covered. 
+ 
+We have you, Mr. Member from Arm River, saying that people 
+should have to pay for their medicare coverage. And we have 
+other, similar comments from members of the Liberal Party. 
+ 
+And my appeal to you is to say actually, the Canadian medicare 
+system and the system in Saskatchewan is a very good system 
+ it’s the envy of the world. It doesn’t mean that there aren’t 
+problems. There are problems with the system, with any system, 
+but it’s a darn good system. 
+ 
+And I had a conversation with a doctor sometime ago where he 
+said well, you can get back surgery faster in the U.S. than you 
+can in Canada. I said to the doctor, listen doctor, before you 
+throw those American statistics at me as to how long it takes to 
+get back surgery in the U.S., you’d better factor in the 40 
+million Americans that have no health care coverage and never 
+get their back surgery because they don’t have the money to pay 
+for it and they don’t have insurance. And until you do that, you 
+keep those U.S. statistics to yourself. 
+ 
+So in answer to the question, I say you’re asking what kind of 
+system we should have here? We should keep the public 
+medicare system that we pioneered in this province. 
+ 
+Mr. McLane:  Thank you, Mr. Minister. I agree that we need 
+to keep our publicly funded, administered system. There’s no 
+question there. But your government seems unprepared to 
+adequately fund it. And what you’re doing is you’re causing all 
+these problems. 
+ 
+It’s not the member from Arm River that brings forward to this 
+House that the people want to pay $38 a head; it’s the people 
+out there, the people of Saskatchewan, that are asking for it. All 
+they’re asking is for you and your government to be open, to be 
+open-minded. They’re desperate. They’re losing their services. 
+They’re seeing their health services eroded, their health 
+facilities across the province being eroded, by a lack of funding 
+from your government. 
+ 
+Now you can stand in this House and talk about the 
+American-style health system and fearmonger the people of the 
+province. People in this province won’t stand for that because 
+they know full well what happens down in the States. There’s 
+many people that travel throughout the United States, and they 
+know what health care is like down there. 
+ 
+But the problem is, is that you’re not prepared to fund it up 
+here. In Saskatchewan your government has downloaded to 
+health district boards to such an extent that it’s at the point of 
+collapse. You can go to any public meeting you want, Mr. 
+Minister, across this province, given any week, any week of the 
+month, any month of the year, and you will find a health 
+meeting  a health district in crisis. 
+
+
+
+June 24, 1996 Saskatchewan Hansard 3105 
+
+And so all the people are saying is, hey, help us. Be 
+open-minded. Let’s solve this problem. We’re willing to help. 
+And your government is not prepared to listen. 
+ 
+You talk about raising the money through the income tax. It’s a 
+wonderful idea except that people are so sceptical of 
+governments any more, particularly your own government 
+who’s broken umpteen dozen promises since you came into 
+power  that they’ll give the money but then the money’s 
+liable to go toward a project such as the CCTA (Crown 
+Construction Tendering Agreement) for heaven’s sakes, instead 
+of health care. 
+ 
+So how can they ever trust a government such as this to ensure 
+that the money that they’re willing to put forward through the 
+tax system is put towards where it’s supposed to be and to 
+where it’s needed? There’s no credibility. 
+ 
+What we’ve got right now in the province is a system of 
+rationing, Mr. Minister. We see people all over the province on 
+a waiting-list, waiting for services. We see it every day in all 
+corners of the province. And what are they to do? They suffer. 
+They have nowhere to turn. They have public meetings. They’re 
+fighting with their district health board. They’re fighting with 
+the members of the board who are probably friends and 
+neighbours of them, because they don’t know what to do and 
+where to turn. And yet you’re not prepared to listen to them. 
+ 
+Earlier in this session we talked in one of the Bills about 
+capitation. Now that’s a direct system out of the United States 
+where they use it down there in the insurance system. We all 
+know that. And yet you said you were looking at that. Someone 
+in your own department has written, in some notes 
+accompanying a piece of upcoming legislation or a Bill, that 
+hey, we’re moving into new funding system for doctors  
+capitation is one of them. That’s what they use in the States in 
+many areas. 
+ 
+So I’m not sure why you’re reluctant to be open-minded and 
+look at different avenues. People are fed up. People are 
+suffering because you’re not willing to look at different 
+alternatives. 
+ 
+And many of these things you’re trying to do, Mr. Minister, in 
+this legislation is being done through the regulations once 
+again, and that poses a big problem for myself. You’re trying to 
+govern, your government is trying to govern this province, 
+through the regulations. They don’t want to be upfront and put 
+things into the meat of the Bill and so everything is done in 
+regulations. 
+ 
+(2000) 
+ 
+And because of that, in respect to this Bill, Mr. Minister, when 
+we get to that section, I will be proposing an amendment once 
+again regarding the legislation. And I’d just like to read that for 
+your information and for the House at this point in time, that 
+we’ll be asking you to: 
+ 
+
+Amend clause 30 by deleting the words “on proclamation”  
+
+and substituting the words “upon consideration and 
+acceptance by the Committee of the Whole of the 
+Saskatchewan Legislative Assembly of regulations 
+proposed pursuant to section 29”. 
+
+ 
+Hon. Mr. Cline:  Well let . . . 
+ 
+The Chair:  Order. Mr. Minister, can I interject for a minute. 
+Why is the member on his feet? 
+ 
+Mr. Kasperski:  With leave, Mr. Chairman, to introduce a 
+guest. 
+ 
+Leave granted. 
+ 
+
+INTRODUCTION OF GUESTS 
+ 
+Mr. Kasperski:  Thank you, Mr. Chairman. Mr. Chairman, 
+it’s my pleasure to introduce to you and to the other members of 
+the legislature, an old friend of mine who is here with us this 
+evening, Mr. David Lange, sitting behind the bar here. David 
+represented the legislature for two terms in the 1970s from the 
+seat of Bengough-Milestone, and I’d just like all of us to 
+welcome him here this evening. 
+ 
+Hon. Members: Hear, hear! 
+ 
+
+COMMITTEE OF THE WHOLE 
+Bill No. 82 
+(continued) 
+
+Clause 1 
+ 
+Hon. Mr. Cline:  Yes, responding to the member, Mr. Chair, 
+I certainly appreciate what the member is saying and it’s true 
+that district boards face tight budgets, as indeed the government 
+does, and municipalities, and universities, and school boards, 
+and so on. But I want to say to the member, I don’t know if I’ve 
+mentioned to the member in the past that the federal 
+government has cut health care spending in the country. I 
+believe it’s the biggest unilateral decrease to health care 
+funding in the history of the country. And I don’t know if I’ve 
+mentioned to the Liberal Party that the federal Liberals have 
+actually cut health care funding to the province of 
+Saskatchewan by about $50 million as of April 1 of this year. 
+And on April 1, 1997, the federal Liberals are going to take out 
+$100 million from the health care system, their share of our 
+funding. 
+ 
+So I agree with the member that budgets are tight but I would 
+say this to the member. This year the people of Saskatchewan, 
+through our government, will be putting into the health care 
+system $47 million more than they did last year. And next year 
+it goes up to $100 million because of federal Liberal cut-backs. 
+ 
+I don’t know if the member is aware of that but I agree with the 
+member that money is tight. We’re putting extra money into the 
+health care system, and I hope the member will acknowledge, 
+and I’m sure as a fair-minded person he will, that the Liberal 
+Party in Ottawa, contrary to the red book, has certainly not been 
+as helpful as we all, I’m sure, had wished. 
+ 
+
+
+
+3106  Saskatchewan Hansard June 24, 1996 
+
+In terms of the waiting-lists, I want to say to the member that 
+the waiting lists in Saskatchewan have actually been getting 
+better except in three areas, namely orthopedic surgery, 
+ophthalmology, including cataract removal, and gynecology. 
+One of the reasons for orthopedics and ophthalmology has been 
+a dramatic increase in the number of people that are undergoing 
+those procedures. 
+ 
+But generally speaking, the waiting-lists for Saskatchewan are 
+quite comparable to other provinces. But I do appreciate the 
+member’s comments, and I am just as concerned with the 
+underfunding of health care, particularly out of Ottawa and the 
+Liberal Party in Ottawa, as the member is. And I know he 
+shares my concern that at some point we have to stabilize 
+funding in this regard. 
+ 
+I would appreciate actually the member’s support in talking to 
+the federal government, and I’d be quite willing to jointly, 
+along with the Liberal Party and the third party, make 
+appropriate representations to the federal government. And if 
+the member wishes to meet with me in that regard, I’d be quite 
+happy to arrange a meeting with the member. 
+ 
+Mr. Osika:  Thank you, Mr. Chairman. Mr. Chairman, 
+through you to the minister, just to change the pace a little bit if 
+I may, are you aware of the number of orthotic and prosthetic 
+services that exist in the province, Mr. Minister, that are 
+currently in existence? 
+ 
+Hon. Mr. Cline:  I’m sorry, you said . . . the second word 
+was prosthetic. What was the first word? 
+ 
+Mr. Osika:  Orthotic. 
+ 
+Hon. Mr. Cline:  No I am not aware of the number of 
+services available. 
+ 
+Mr. Osika:  The reason I ask, I was just wondering if, with 
+this new health legislation brought in to deal with private 
+clinics . . . allow for private orthotics and prosthetic clinics. Is 
+any part of that legislation . . . will that deal with those types of 
+services? 
+ 
+Hon. Mr. Cline:  No, I don’t believe this legislation would 
+apply to those services because this legislation applies to 
+insured health services. If you look at the definition in section 
+2(1)(f), that are primarily provided within a hospital. And with 
+respect to orthotic and prosthetic services, I do not believe they 
+are primarily provided in a hospital. 
+ 
+I believe they are primarily provided through SAIL 
+(Saskatchewan Aids to Independent Living) and its agent, the 
+Abilities Council. I could be corrected in that regard, but that’s 
+my recollection, is that generally speaking these are services 
+provided outside of the hospital. And I think SAIL, which is the 
+Saskatchewan Aids to Independent Living as the member will 
+know, has contracted this service to the Abilities Council. And I 
+believe for example, if you need a prosthetic leg that you go to 
+the Abilities Council as opposed to a hospital, and they take the 
+appropriate measurements, and they create an artificial leg for 
+you. And because it’s not provided primarily in a hospital, this  
+
+legislation would not affect the matter one way or the other. 
+ 
+Mr. Osika:  Thank you, Mr. Minister, and again, forgive me. 
+I understand that when a Saskatchewan resident goes out of the 
+province for these services  orthotic and prosthetic services 
+ SAIL will pay the orthotist and prosthetist in those provinces 
+at Saskatchewan rates, but will not do the same for 
+professionals in this province. Is there any reason for that? 
+ 
+Hon. Mr. Cline:  That may or may not be correct, but what I 
+would say to the member is in term of this legislation, this 
+legislation would not I think affect that matter one way or the 
+other. 
+ 
+Mr. Osika:  Thank you, Mr. Minister. I’ll defer to my 
+colleagues, and perhaps we can discuss this particular issue in a 
+different forum, perhaps in estimates. Thank you. 
+ 
+Mr. McPherson:  Thank you, Mr. Chair. Mr. Minister, I 
+found it somewhat interesting listening to some of your 
+comments and your of course very political speech tonight, and 
+I guess somewhat consider it to be a lecture. I won’t take it that 
+way because I don’t think you deserve to lecture anybody on 
+health care. But I did take note that you saw this Bill to be more 
+of a political statement than I guess a true need in health care. 
+And that’s your right, to make this sort of a statement. 
+ 
+But I think the point that the member from Arm River made 
+was a valid one in so far as when we’re out at these health care 
+rallies . . . tomorrow night there’s one in Herbert; I know right 
+now that you won’t be there. You haven’t been at any of the 
+others, whether it’s Central Butte or Kamsack or Swift Current. 
+And so to say to the member from Arm River or myself that we 
+don’t know what we’re saying when we tell you . . . we come 
+back into the House, and it’s day after day after day, and who 
+knows better than you, Mr. Minister, because you have been on 
+your feet I think four or five times more than any other minister 
+in responses in this session. So health care has been dominant 
+in this session. 
+ 
+But what we are continuously hearing is desperation on behalf 
+of the people. And it’s not that they want to pay more. In fact 
+you’re taking advantage of those feelings by saying, you know, 
+with the view that in fact here is another tax. And it’s not 
+whether there should be charges or shouldn’t be charges for 
+health care services. You are actually upping the ante and 
+wanting to talk higher dollars. And so I think you’re really 
+playing on the feelings and desires of those people out there  
+the desire to have some form of health care remain in rural 
+Saskatchewan. And for that I think you’re wrong. 
+ 
+But to say that in fact what we have here is health care in this 
+province that is second to none, I disagree. I think we did have. 
+But second to none today . . . Look at today’s question period, 
+Mr. Minister. Now this is continual; it’s every day you’re on 
+your feet on two or three or four different issues in health care. 
+ 
+And here’s what people say. You don’t have to believe us, you 
+know, if you feel that we’re not getting the message right, 
+because we’re the ones out at these health care rallies and these 
+town hall meetings, when in fact they’re trying to save health  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3107 
+
+care. But what are the people saying? 
+ 
+And right here, in Saturday’s Leader-Post, and this is the case 
+that I raised with you in question period today. And you may 
+find this to be distasteful after it’s been raised  I don’t know 
+many times  a couple hundred times that we’ve raised 
+individual cases in this session alone. And I know I did a few 
+hundred in the last session and then the session before that. 
+ 
+But that’s how people find that they’re getting health care in 
+Saskatchewan these days. Listen. Here’s the comments of a 
+doctor: 
+ 
+
+‘Years ago, I could have admitted her . . . 
+ 
+
+And he’s talking about the lady that had the cancer 
+ 
+
+‘Years ago, I could have admitted her, but now she doesn’t 
+fit the criteria.’ 
+
+ 
+Well you know what? When we’re talking about these Bills in 
+regards to your department, Mr. Minister, you being the 
+Minister of Health, this is the criteria that people live under. 
+You said it. You said it in regulation, mostly, by this Bill. 
+ 
+And this is really why we can’t . . . I wouldn’t begin to support 
+a Bill where in fact so much of it is laid out in regulation. 
+What?  90 per cent of this Bill will actually be dealt with by 
+regulation. So what is it we’re talking about here? We don’t 
+know. You’re going to make those rules up later. 
+ 
+And in fact what is in the Bill, as you’re saying, is nothing more 
+than a political statement. If you want our support with the 
+direction health care is or should be going in the province, then 
+don’t come in here with your so-called political statements. 
+What good is it? It means nothing. 
+ 
+What means everything to us . . . and, Mr. Minister, what I 
+mean by this when I . . . saying us, our caucus, who will have 
+continuously brought forward these individual cases, is why it 
+is that people have got to use the Leader-Post or the Legislative 
+Assembly to get health care. And that falls squarely on your 
+shoulders to deal with it. Not with those individual cases, but 
+it’s more than evident that there’s a trend . . . (inaudible) . . . 
+likes to call it a trend. 
+ 
+(2015) 
+ 
+I mean people are desperate. They’re coming . . . They’re using 
+these avenues because that’s all that they have left. And that’s, 
+at the end of the day, what you’re going to be judged for. It’s 
+not going to be some Bill that’s a political statement to you or 
+that you can quote from at election time, saying, well we were 
+able to prevent those big bad provincial Liberals who are, as 
+you’ve been saying all night, tied to Preston Manning . . . How 
+you got that one, I don’t know, but I thought it was hilarious 
+listening to you. 
+ 
+They’re going to judge you on whether or not their mothers and 
+fathers and grandmothers, etc., are getting health care  and 
+they’re not. So you can have all your political statements in  
+
+here that you want, but at the end of day if you’re still closing 
+down hospitals, you’re closing down nursing homes . . . 
+ 
+What do you want to govern with the legislation that you’re 
+bringing forward? You, by this Bill and by the Bill that we’re 
+going to be discussing tomorrow morning, have total control on 
+health in the province, especially over health boards. Well of 
+what? Because you’ve been busy taking away health. We don’t 
+have the service. What do you want to control? You’re in 
+control of nothing. You’re caving in. So . . . 
+ 
+An Hon. Member:  A little exaggeration goes a long . . . 
+ 
+Mr. McPherson:  Well no, it’s not a little exaggeration. It’s 
+continual. It’s continual  it’s continual  dealing with this 
+sort of stuff. You think it doesn’t take its toll on everyone, 
+official opposition included . . . (inaudible interjection) . . . 
+Well, Mr. Chair, once again I’m calling on you, as I have time 
+after time tonight, to get a little bit of control in the House. Well 
+look it how loud and boisterous they are. They’re so anxious to 
+make public their financial records on secret funds that they just 
+can’t control themselves. 
+ 
+An Hon. Member:  Well I went and checked out yours, but 
+you wouldn’t give it. 
+ 
+Mr. McPherson:  Oh, is that right? 
+ 
+The Chair:  Order. I would like to remind the members that 
+there is a debate going on in the House and they would like to 
+hear each other. Please allow the people speaking the courtesy 
+of your quietness. 
+ 
+Mr. McPherson:  So in closing, Mr. Minister, we’re going to 
+let you move ahead with the Bill and move on to other items 
+here today, but it really is disappointing when we have to 
+continuously bring health care to your attention and to the 
+public’s attention, of what it’s like out there. 
+ 
+And you know very well when the first round of cuts came 
+about with the health care reform and there was some 52 
+hospitals affected. Everyone in the province knew it, because 
+there was court actions all over, or threats of court action. But 
+now the people in Swift Current don’t know that the people in 
+Kamsack are having a rally and they don’t know that the ones 
+elsewhere . . . Those rallies are still happening. You and I both 
+know it and these sort of cases are continuous. 
+ 
+“Like any grieving daughter, Mary cries when she talks about 
+her mother’s death.” That’s quite a way to end it, isn’t it? 
+ 
+Hon. Mr. Cline:  Well, Mr. Chair, I want to say in answer to 
+the member very briefly, if I may, the member raises the 
+question of making a political statement, and I want to say to 
+the member there is nothing wrong with making a political 
+statement. If the statement is that we believe in a public 
+medicare system, I think that’s not so bad. I think we should 
+make that political statement. 
+ 
+Opposition to that view is also a political statement, as I said 
+earlier. The member says we don’t have a good health care  
+
+
+
+3108  Saskatchewan Hansard June 24, 1996 
+
+system. I say to the member, you tell me where the health care 
+system is better than it is in the province of Saskatchewan, and 
+be specific about where it is better, because we have a pretty 
+darn good system. Not a perfect system, Mr. Speaker, but we 
+have a pretty good system. 
+ 
+And I want to say to the member that he flatters himself and the 
+Liberal Party a little bit when he says that the only way you can 
+get health care in Saskatchewan is through the Liberal Party, by 
+complaining and then they raise it in the legislature. 
+ 
+Because it’s true that the Liberal Party has raised a few dozen 
+cases of people they think have some beef against the health 
+care system in the legislative session, but I want to say to the 
+member from Wood River, that every day in this province under 
+the public medicare system, there are about 27 to 2900 people 
+that are treated in our hospitals. There are 9,000 people that 
+reside in our nursing homes, and there are 24,000 people that 
+receive home care and community services. 
+ 
+And I say to the member from Wood River, that if he’s trying to 
+tell the people that the only way that those 2900 people in the 
+hospital get service is because of something the Liberal Party 
+does, he’s mistaken. If he’s saying that the only way that the 
+9,000-some people in nursing homes get cared for, is because 
+of something the Liberal Party does, he’s mistaken. If he’s 
+saying that it’s because of the Liberal Party that 24,000 people 
+get home care services or community services in this province, 
+he’s mistaken about that too. 
+ 
+The reason those people get services in the hundreds and 
+thousands every single day is because of the dedicated women 
+and men that work in the health care system. And it’s because 
+people in this province had the vision to come up with a public 
+medicare system over the opposition of his party. 
+ 
+And I don’t want to debate the member about that. But I just 
+say, when the member says you can only get health care in 
+Saskatchewan if you complain to the Liberal Party and have 
+them raise it, I think the member is exaggerating slightly, the 
+role the Liberal Party in Saskatchewan plays in health care. 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. Mr. Minister, I 
+just want to point out to you a few things in response to some 
+of your comments. I thought I was finished but I guess I’ll say a 
+few more words. 
+ 
+In response to what you’ve talked about in terms of premiums 
+that you alluded to earlier, on different issues and the cost of 
+collecting those premiums, I just want the minister to know, in 
+case he doesn’t . . . or in case his department hasn’t informed 
+him, we have a great, huge part of this system, health system, in 
+the province today that does have premiums, and I’ll just name 
+you a few off, Mr. Minister. I just made a quick note or quick 
+list here. I’m sure I haven’t got them all. 
+ 
+We already have home care premiums. People pay for some of 
+their home care. What does it cost to collect that, Mr. Minister? 
+We have long-term care charges, Mr. Minister. That’s a major 
+fee to a lot of seniors in this province. We have day care. We 
+have day care premiums, Mr. Minister, for people going in for  
+
+day care and as well as the night care programs, Mr. Minister. 
+We have the respite program. It’s a wonderful program but 
+people have to pay for it, Mr. Minister. We have Meals on 
+Wheels; people pay for it, plus the volunteers that deliver it, Mr. 
+Speaker. 
+ 
+Mr. Minister, we also have ambulance fees. People talk about 
+fees. We have ambulance fees. For those of us in rural 
+Saskatchewan who are seeing our services being eroded and 
+lost and greater distances to travel, we pay for our ambulance. 
+The air ambulance for the people in the North and for extreme 
+emergencies  we pay for that, Mr. Minister. It’s a premium. 
+What does it cost to collect it? We have the drugs, our drug 
+plan which you eliminated. A major expense to a lot of us that 
+have to use that plan. Those are all premiums. What does it cost 
+to collect it? 
+ 
+I ask you again to, on behalf of your government, to be a little 
+more open-minded when it comes to lives of the people of 
+Saskatchewan. Health is an important issue, something we want 
+to preserve. We all do. We can sit here and banter back and 
+forth and you can say that we’re doing the wrong thing and 
+you’re doing the wrong thing and we’ll say it. But the crux of 
+the matter is, is that we want a system that we can sustain, that 
+we can pay for. And the only way we can do that is if your party 
+will set aside some of its political history and start facing up to 
+the facts that times are changing. We have to do things 
+differently and we can do them; people are ready to do them. 
+ 
+And so I can only ask the minister that he will be open-minded, 
+and I’m sure he will be. He’s one of the more open-minded 
+ministers that we have on that side of the House and I look 
+forward to the next three or four years and making some 
+changes for the good of the people of the province. 
+ 
+Clause 1 agreed to. 
+ 
+Clauses 2 and 3 agreed to. 
+ 
+Clause 4 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. I’d like to move 
+an amendment to clause 4 of the printed Bill, which would 
+indeed: 
+ 
+
+Amend clause 1(c) of clause 4 of this Bill by adding the 
+word “reasonably” before “considers relevant to the 
+application”. 
+ 
+
+Hon. Mr. Cline:  Yes. I think that that is a reasonable 
+amendment to the Bill. 
+ 
+Amendment agreed to. 
+ 
+Clause 4 as amended agreed to. 
+ 
+Clauses 5 to 16 inclusive agreed to. 
+ 
+Clause 17 
+ 
+Mr. McPherson:  Thank you, Mr. Chair. As we spoke on  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3109 
+
+this clause earlier, I guess I’ll just get right to the amendment. I 
+move: 
+ 
+
+That we amend clause 17 of the printed Bill by deleting 
+from subsection (1) the words “on a question of law only” 
+and adding immediately after the words “judge of the 
+Court of Queen’s Bench” the following: 
+ 
+“on any question of law or on the ground 
+ 
+(a) that there has been a breach by the minister of a 
+provision of the statute that is relevant to the decision 
+appealed; 
+ 
+(b) that the decision is founded on an erroneous 
+apprehension of fact or that the minister has, in making the 
+decision, failed to take into account all relevant facts; or 
+ 
+(c) that the minister in making the decision has not 
+afforded the person a reasonable opportunity to be heard or 
+has otherwise not acted in accordance with the principles 
+of fundamental fairness.” 
+ 
+
+I so move. 
+ 
+Hon. Mr. Cline:  Yes, Mr. Chair. I’d like to propose a 
+subamendment. 
+ 
+That in the amendment the second word “any” be changed to 
+read “a,” so it reads, “on a question of law.” And then after the 
+word “law,” a semi-colon would be inserted and then the word 
+“or” would appear, and the words “on the ground” would be 
+removed. So it would read, 
+
+ 
+on a question of law; or 
+ 
+
+. . .” And then clauses (a) and (b) would be deleted and clause 
+(c) of the amendment would be included but reworded to read: 
+ 
+
+(b) on the ground that the minister in making the decision 
+has not afforded the person a reasonable opportunity to be 
+heard or has otherwise not acted in accordance with the 
+principles of fundamental justice. 
+
+ 
+(2030) 
+ 
+The Chair:  The subamendment as moved by the minister to 
+amend the House amendment of 17(1) to read: 
+ 
+
+Any person who is aggrieved by a decision of the minister, 
+pursuant to this Act may appeal the decision to a judge of 
+the Court of Queen’s Bench: 
+ 
+(a) on a question of law; or 
+ 
+(b) on the ground that the minister in making the decision, 
+has not afforded the person a reasonable opportunity to be 
+heard or has otherwise not acted in accordance with the 
+principles of fundamental justice. 
+
+ 
+Subamendment agreed to. 
+
+Amendment as amended agreed to. 
+ 
+Clause 17 as amended agreed to. 
+ 
+Clauses 18 to 29 inclusive agreed to. 
+ 
+Clause 30 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. This amendment, 
+on this particular clause, is in regards to the regulations of 
+which, through the course of this session, we’ve been talking 
+about. 
+ 
+And in particular, I’ve been encouraging the government to be a 
+little more open and bring forward the regulations in a timely 
+fashion so that they can be reviewed and debated in this type of 
+forum. 
+ 
+Of course in the government’s open and accountable style, of 
+which we don’t see much of, this didn’t go over very well. And 
+so consequently, we never do see the regulations. And certainly 
+you would think that, when one of the ministers is bringing 
+forward a Bill, that they would certainly have done some work 
+on it in preparation for the Bill. 
+ 
+But however, we’ll be introducing an amendment here, Mr. 
+Chairman, to clause 30, and it will be to: 
+ 
+
+Amend clause 30 by deleting the words “on proclamation” 
+and substituting the words “upon consideration and 
+acceptance by the Committee of the Whole of the 
+Saskatchewan Legislative Assembly of regulations 
+proposed pursuant to section 29”. 
+ 
+
+I so move. 
+ 
+The division bells rang from 8:38 p.m. until 8:48 p.m. 
+ 
+Amendment negatived on the following recorded division. 
+ 
+
+Yeas  7 
+ 
+Osika Aldridge McLane 
+McPherson Belanger Krawetz 
+Gantefoer   
+ 
+
+Nays  22 
+ 
+Wiens MacKinnon Atkinson 
+Johnson Upshall Kowalsky 
+Crofford Pringle Koenker 
+Bradley Scott Cline 
+Serby Stanger Hamilton 
+Langford Wall Kasperski 
+Sonntag Jess Murrell 
+Thomson   
+ 
+Clause 30 agreed to on division. 
+ 
+The committee agreed to report the Bill as amended. 
+ 
+
+
+
+3110  Saskatchewan Hansard June 24, 1996 
+
+THIRD READINGS 
+ 
+
+Bill No. 114  An Act respecting the Establishment of a 
+Crown Foundation for District Health Boards 
+
+and their Affiliates 
+ 
+Hon. Mr. Cline:  Mr. Speaker, I move that this Bill be now 
+read the third time and passed under its title. 
+ 
+Motion agreed to, the Bill read a third time and passed under its 
+title. 
+ 
+
+Bill No. 120  An Act respecting the Reorganization of 
+Labour Relations between Health Sector 
+
+Employers and Employees 
+ 
+Hon. Mr. Cline:  Mr. Speaker, I move that the amendments 
+be now read the first and second time. 
+ 
+Motion agreed to. 
+ 
+Hon. Mr. Cline:  Mr. Speaker, I move that the Bill be now 
+read the third time and passed under its title. 
+ 
+Motion agreed to and, by leave of the Assembly, the Bill read a 
+third time and passed under its title. 
+ 
+
+Bill No. 82  An Act respecting Health Facilities 
+ 
+Hon. Mr. Cline:  I move that the amendments be now read 
+the first and second time. 
+ 
+Motion agreed to. 
+ 
+Hon. Mr. Cline:  Mr. Speaker, by leave of the Assembly, I 
+move that the Bill be now read the third time and passed under 
+its title. 
+ 
+Motion agreed to and, by leave of the Assembly, the Bill read a 
+third time and passed under its title. 
+ 
+
+COMMITTEE OF FINANCE 
+ 
+
+General Revenue Fund 
+Health 
+Vote 32 
+
+ 
+The Chair:  I would ask the minister to introduce any 
+officials that have not previously been with him. 
+ 
+Hon. Mr. Cline:  The officials have all been previously 
+introduced, Mr. Chair, thank you. 
+ 
+Item 1 
+ 
+Mr. McLane:  Thank you, Mr. Chairman. Mr. Minister, 
+welcome to your officials. 
+ 
+A few questions this evening, Mr. Minister. We’ll start off 
+firstly with the provincial health association and its relationship 
+with government. Mr. Minister, I wonder if you could tell us 
+
+what types of grants that the provincial government provides to 
+the Saskatchewan Association of Health Organizations. 
+ 
+Hon. Mr. Cline:  They receive an operating grant of $1.281 
+million, which is their basic funding from the province in terms 
+of their operations. 
+ 
+Mr. McLane:  Thank you, Minister. Do you provide any 
+other payments to SAHO (Saskatchewan Association of Health 
+Organizations) for services such as the . . . for bargaining, that 
+type of service? 
+ 
+Hon. Mr. Cline:  Bargaining would be included in the 
+operating grant. 
+ 
+Mr. McLane:  So the 1.281 million, Mr. Minister, would be 
+the total monies granted to SAHO? 
+ 
+Hon. Mr. Cline:  No. 
+ 
+Mr. McLane:  Could you explain any other payments to 
+them then? 
+ 
+Hon. Mr. Cline:  Yes. They receive $2.25 million for district 
+information systems and $98,000 for central services. 
+ 
+Mr. McLane:  Have the . . . I assume, Mr. Minister, that 
+these payments are for this year, that you’re referring to? 
+ 
+Hon. Mr. Cline:  Yes. 
+ 
+Mr. McLane:  Have those payments fluctuated over the last 
+say five years to any great extent? 
+ 
+Hon. Mr. Cline:  The operating grant has gone down 
+approximately 10 per cent this year. The district information 
+systems funding has fluctuated quite a bit. Last year there was a 
+compensation classification study which involved a million 
+dollars. Some funding may be approved this year with respect 
+to that matter, which is not approved yet. And central services 
+grant is a new grant this year, as I read it. 
+ 
+Mr. McLane:  What would be involved, Mr. Minister, in that 
+new grant? 
+ 
+(2100) 
+ 
+Hon. Mr. Cline:  It has to do with the fact that 1,400 staff 
+were devolved to the districts from the province and SAHO is 
+receiving some money to help the districts cope with the 
+transition. And SAHO itself must cope with that transition 
+payroll. 
+ 
+Mr. McLane:  Thank you, Minister. You mentioned the 10 
+per cent decrease in the operating grant to them. Given the 
+times, the increases in utilities and many other things, what was 
+the reason for the decrease in the grant? 
+ 
+Hon. Mr. Cline:  The Department of Health, as the member 
+may know, considerably downsized this year in terms of our 
+administrative costs and we cut our administrative costs by 
+
+
+
+June 24, 1996 Saskatchewan Hansard 3111 
+
+approximately 10 per cent. And we felt that the central 
+administration of SAHO should do likewise. 
+ 
+Mr. McLane:  Thank you, Mr. Minister. I’m not sure that’s a 
+great comparison. I believe that the department’s role has 
+decreased as well. However, it would appear to me that the role 
+of SAHO would have increased significantly, certainly over the 
+last year, if not two or three. I’m wondering, how you could 
+justify that same type of criteria for downsizing for the 
+provincial health association? 
+ 
+Hon. Mr. Cline:  It is our objective to put less money into 
+administration, more money into front-line services. And we 
+feel that that objective should apply to the Department of 
+Health; to SAHO, which is the central organization to health 
+districts; and to the health districts themselves. 
+ 
+Mr. McLane:  Is there any monies that are given to the 
+districts directly for membership fees for SAHO? 
+ 
+Hon. Mr. Cline:  Districts receive global funding. Out of 
+their global funding they may pay membership fees to SAHO. 
+ 
+Mr. McLane:  Just keeping with SAHO and its association 
+with the government in terms of the labour negotiations and 
+representing the unions, I wonder, Mr. Minister, if you could 
+describe in your own words the role between government and 
+the Saskatchewan Association of Health Organizations. 
+ 
+Hon. Mr. Cline:  Government approves a bargaining 
+mandate and SAHO would be responsible for everything else. 
+ 
+Mr. McLane:  That leaves a fairly wide scope for them. Are 
+there any negotiations or discussions that take place with the 
+department, your wing of the Labour department, with SAHO, 
+in trying to formulate what type of an agreement you might be 
+wanting them to make with the health unions? 
+ 
+Hon. Mr. Cline:  Not really. But in setting the mandate, 
+government has to have some discussion with SAHO if not 
+both parties. But other than that, the bargaining is a 
+responsibility of SAHO. 
+ 
+Mr. McLane:  Is the department looking at, Mr. Minister, at 
+any other vehicle for this type of negotiation, other than what 
+SAHO has been doing and the former provincial health 
+association? 
+ 
+Hon. Mr. Cline:  No. 
+ 
+Mr. McLane:  Mr. Minister, I think you’d have to agree that 
+most likely the members of SAHO are probably telling their 
+provincial association that their backs are against the wall, in 
+particular in the funding formulas and the funding areas. I’m 
+wondering, as is the case, there’s been some wage increases for 
+some health sector unions already. Do you think that, given the 
+tight fiscal crunch that the districts are in, that that’s appropriate 
+for the government, through your department, to offer those 
+people wage increases in whatever form, whether it’s a direct 
+wage increase or a benefit package? 
+ 
+
+Hon. Mr. Cline:  I think the health employees should be 
+treated equitably with other employees in the public sector. And 
+if other employees in government and the Crowns have 
+received, for example, a 1 per cent increase, I think the health 
+employees who deliver very important services to the public 
+also deserve that kind of increase. 
+ 
+Mr. McLane:  Would you not then agree that it might be 
+appropriate that the government would fund those wage 
+increases over and above the global budget that the districts are 
+receiving, given that tight fiscal plank that they are walking? 
+ 
+Hon. Mr. Cline:  No. 
+ 
+Mr. McLane:  And can I ask you why not? 
+ 
+Hon. Mr. Cline:  The government is funding the wage 
+increases through global funding. The funding is 
+population-based and needs-based. The government itself is 
+able to give its employees the mandated increase, while 
+decreasing the level of spending on operations quite 
+dramatically over the last number of years. 
+ 
+We expect that by watching administrative costs and 
+performing in an efficient manner, the health districts likewise, 
+like government, like other organizations, should be able to 
+pass on a modest and fair increase to employees while still 
+operating within available resources. 
+ 
+Mr. McLane:  Mr. Minister, would you disagree that any 
+benefit packages to any health sector union at this point in time 
+would directly relate to bed closures and/or facility closures? 
+ 
+Hon. Mr. Cline:  Not necessarily. 
+ 
+Mr. McLane:  Well, Mr. Minister, where would you expect 
+that the districts would pick up the extra funding for, that your 
+government hasn’t kept up with, in terms of these union 
+negotiations, the contracts, the benefit packages, inflation costs, 
+increases to utilities  where do you expect the districts to find 
+those types of dollars? 
+ 
+Hon. Mr. Cline:  Administrative savings and rationalizations 
+within facilities, to name two areas. 
+ 
+Mr. McLane:  In terms of administration, Mr. Minister, 
+could you tell us what type of downsizing we’ve seen 
+throughout the districts and through administrative reductions? 
+It appears to me that we continually see advertisements in the 
+paper for the districts, advertising for directors of this or that 
+and the other thing, so where are the savings? 
+ 
+Hon. Mr. Cline:  The administration is down about 18 per 
+cent across the province in terms of the number of 
+administrators before health reform and after. In Regina and 
+Saskatoon the number of administrators is down about 22 per 
+cent. 
+ 
+It’s true that when people leave management there will be 
+advertisements to replace them. The fact is however, contrary to 
+conventional wisdom or what may be promoted by those who 
+
+
+
+3112  Saskatchewan Hansard June 24, 1996 
+
+do not believe in health reform, the amount spent on 
+administration and the number of administrators is down rather 
+than up. 
+ 
+Mr. McLane:  Now when you talk about administrators, Mr. 
+Minister, are you referring about administration in general or 
+are you talking to what we used to know as administrators of 
+health agencies and facilities? 
+ 
+Hon. Mr. Cline:  I’m sorry, you’ll have to elaborate on the 
+distinction between those two areas. 
+ 
+Mr. McLane:  Minister, I’m trying to get a fix on what 
+you’re talking about when you talk about administrators. Are 
+you talking about administration in general? Administrators, 
+there are many administrators of different health agencies and 
+facilities. Is that what you’re referring to? Are you talking to 
+administration in general? 
+ 
+Hon. Mr. Cline:  By administration we’re referring to 
+executive management, human resources, finance and 
+accounting. 
+ 
+Mr. McLane:  Mr. Minister, do you have a flow chart for 
+districts? Are they expected to follow a certain sector or group 
+of administrative-type people? Would every district be 
+consistent? Would they all have about, depending on the size, 
+the same types of directors in different areas in health? 
+ 
+Hon. Mr. Cline:  It is up to the district. 
+ 
+Mr. Belanger:  Thank you, Mr. Chair. Just a welcome to the 
+minister and his officials. I just have a few questions for you, 
+Mr. Minister. 
+ 
+Basically from the perspective of northern Saskatchewan, could 
+you list some of the affiliates and some of the non-affiliates that 
+your department is working with in terms of allocation of 
+dollars or delivery of services. 
+ 
+Hon. Mr. Cline:  Yes, in terms of alcohol and drug services, 
+there is funding that goes to Beauval, Buffalo Narrows, 
+Creighton, Clearwater, Ile-a-la-Crosse, Mitho Menoo Centre, 
+Pine Island, Robert Simard, Sandy Bay, Recovery Lake, and 
+Pinehouse. There are home care services at Beauval, Buffalo, 
+Creighton, Cumberland House, Deschambault, Green Lake, 
+Ile-a-la-Crosse, La Loche, La Ronge, Michel, Pinehouse, Sandy 
+Bay, Turnor Lake, Wasahaw, and Weyakwin. 
+ 
+And in addition, of course, funding to the St. Elizabeth’s 
+Hospital at Ile-a-la-Crosse, Uranium City hospital, St. Martin’s 
+Hospital at La Loche, and the La Ronge Hospital, MACSI 
+(Metis Addictions Council of Saskatchewan Inc.), and I think 
+I’ve mentioned the rest. And then of course money is spent 
+through the northern health services branch as well. 
+ 
+Mr. Belanger:  Thank you. And as you are more than aware, 
+Mr. Minister, we’ve been discussing issues of northern concern 
+for many months in the House. And one of the specific points 
+that was raised time and time again for northern Saskatchewan 
+is we’re really playing catch-up with a lot of the rest of the  
+
+province. 
+ 
+And certainly it’s foreign to me to see regions discuss hospitals 
+and there’s a possibility of 7 or 8 or 9 or 10 hospitals in a 
+certain region, whereas in northern Saskatchewan there may be 
+4 or 5 at the most for the whole, entire North. And we certainly 
+recognize the differences in travel, and the geographical 
+challenges of delivery of health, and also to ensure that the 
+people of the North have access to health care. 
+ 
+One of the pressing results that people wanted to see when it 
+came to the health challenges in northern Saskatchewan, and 
+was really a surprising matter, they didn’t only speak about the 
+need for health districts and consultation with governments. 
+They didn’t only speak about better facilities and a wider range 
+of services. But the incredible thing they brought forward, Mr. 
+Minister, was a lack of housing. 
+ 
+(2115) 
+ 
+They attributed pretty well most of the health challenges with 
+the lack of housing. Certainly health facilities are part of the 
+solution, but really the infrastructure in northern Saskatchewan 
+provides a severe challenge to many, many people and 
+especially the children of northern Saskatchewan. 
+ 
+And I got an example here I’d like to share with you. La Loche 
+is a prime example of how desperate the housing situation in 
+northern Saskatchewan is. And I’ve recently spoken to a mother 
+of four who is living in a substandard home because there is 
+simply nowhere for her to go. Christine Janvier is being asked 
+to vacate the house because there is no provisions made for her 
+to live in the house and there’s certainly no provisions for her to 
+live in a different house. And Ms. Janvier has been told to leave 
+one house already due to sewage back-up. And this is not an 
+isolated case. Ms. Janvier has four young children and local 
+housing boards aren’t able to accommodate her and aren’t able 
+to find her a decent place to live. 
+ 
+And I guess what we’re trying to prove at this point, Mr. 
+Minister, is certainly in northern Saskatchewan we have to look 
+at an overall assessment of what the challenges for health care 
+is. And housing is one of the biggest detriments right now to 
+health care. 
+ 
+And I’d like to ask your opinion on this issue. When it comes to 
+the old saying, a pound of cures . . . or an ounce of prevention 
+is worth a pound of cure, would you basically offer your 
+opinion on the situation with housing, helping with the health 
+problems in northern Saskatchewan, and how you feel we need 
+to have this addressed. 
+ 
+Hon. Mr. Cline:  Yes, I’d be pleased to. I’d like to say to the 
+member that I agree with the member when he talks about the 
+fact that in some areas of southern Saskatchewan we’re talking 
+about eight or nine hospitals in a given area, whereas the North 
+is very under-resourced in terms of hospital services, if I can 
+put it that way, given the geography. 
+ 
+What I find really strange about the Liberal Party and the 
+member’s participation in it, and I don’t mean to be too  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3113 
+
+political, but one of the odd aspects of the member’s role as he 
+sees it is the fact that he gets up in the House day after day to 
+complain about the closure of the Plains Health Centre when 
+there are actually three hospitals in the city of Regina, and there 
+are going to be two locations that offer the same services. 
+ 
+And one of the things we’re trying to do with health reform is 
+exactly what the member is talking about tonight, which is to 
+take some of the money that goes to institutional services and 
+redirect that money from areas we really don’t need to areas 
+where there is great need. 
+ 
+One of those areas is northern Saskatchewan. And it’s 
+unfortunate that one of the things the Liberal Party has done, 
+like the Conservatives before them, is to ignore the plight of 
+people in the North and their needs because they’re too busy 
+talking about keeping things going down here that we don’t 
+really need which, if I may say so, is a very selfish attitude. 
+ 
+And I want to say to the member from Athabasca that I’m quite 
+sympathetic to what he’s saying tonight, contrary to what he 
+says day after day in question period, or prior to question 
+period, in the House when presenting petitions, not on behalf of 
+the North but on behalf of people in the South. 
+ 
+More catch-up has occurred in the last few years in terms of 
+hospital services in the North than has occurred in the last 20 
+years. And I would refer to the fact that the La Ronge Health 
+Centre just opened with hospital services, nursing home 
+services, community services, home care, counselling, and what 
+not. As the member knows, there also will be a facility in the 
+Athabasca basin that will be coming about. As the member also 
+knows, there’s a committee looking at what we need in terms of 
+hospital services on the west side, which the member 
+represents. 
+ 
+In terms of housing, I think the member will know that this is a 
+responsibility of the Department of Municipal Government. But 
+having said that, let me say that I think the member raises a very 
+valid point, which is we can’t discuss health without discussing 
+housing. 
+ 
+And if we would pay some attention to housing, including 
+housing conditions in the North, in terms of proper insulation, 
+sewage, and water, which this government has been doing more 
+of than other governments  with less support I might add 
+from the federal Liberals than before  and it’s my hope that 
+when we set up the new district health boards in the North, that 
+those boards will look at health in a coordinated, integrated 
+fashion such as the member is referring to tonight, including 
+looking at how they should work with Municipal Government 
+in terms of housing. Because I agree with the member. It has a 
+direct impact on health and the health of the people. 
+ 
+What we cannot do, I say to the member, is do as the 
+Saskatchewan Liberal Party does day after day, and that is to 
+say we cannot change the system. The Saskatchewan Liberal 
+Party sees the health care system in these terms: simply, how 
+many people can you stick in hospital beds? How many people 
+can you put into nursing homes? The Saskatchewan Liberal 
+Party does not look beyond the number of hospital beds and  
+
+nursing home beds to ask the question, how do you really get at 
+the issue of the health of the people? 
+ 
+And in northern Saskatchewan, the member from Athabasca is 
+saying tonight, you have to look at issues like housing, clean 
+water, sewage, and I agree wholeheartedly with the member. 
+And if we can get beyond the opposition of the Liberal Party to 
+a meaningful look at health reform, I’m confident that we could 
+work with that member to actually improve the health of people 
+in northern Saskatchewan. 
+ 
+Mr. Belanger:  Thank you. Mr. Minister, on reference to the 
+situation with housing, we’re glad you’re looking at the holistic 
+approach to health care in northern Saskatchewan. But the 
+situation in the North  La Loche is a prime example  it’s 
+been what, 16, 17, 18 years that we’ve had trailers pushed 
+together to form the basis of having a hospital to serve that 
+community. 
+ 
+Mr. Minister, make no mistake about it. This $114 million cut 
+that every department within your government has been 
+claiming is a direct result of their cut-backs because of the 
+federal government has cut back this province, really the 
+situation is, how many more government departments are going 
+to take credit for their cuts and blame it on the feds? 
+ 
+Now we got 19 different ministers that are claiming 114 million 
+was cut out of their budget because of the federal government. 
+But the fact of the matter, there was no $114 million cut 15, 14, 
+13, 12, 10 years ago. This hospital, St. Martin’s Hospital, is a 
+bunch of trailers put together to serve the people of La Loche, 
+Garson Lake, Turnor Lake, and Descharme Lake. These are 
+Saskatchewan people. And when we talk about provincial 
+responsibility versus federal responsibility, the federal 
+government, from what I can gather, transfers money to the 
+province to deliver health services as well as social services and 
+education and on and on. 
+ 
+Now my question back to the minister is: in spite of all the 
+money that over the years has been flowing to this provincial 
+government from northern Saskatchewan royalties and from the 
+federal government as well  I’m not defending the federal 
+government in these cuts; I’m just saying that they put money 
+into health care  why is it after 17 years that we’ve still got 
+trailers put together for a hospital? 
+ 
+Hon. Mr. Cline:  Well I’m in agreement with the member 
+that there should be some improvement in the situation in La 
+Loche that the member describes. We are waiting for a 
+committee of people from the North who will give us some 
+advice in terms of how they think the facilities on the west side 
+should be done or redone and where they think the facilities 
+should be  whether it’s in La Loche, Buffalo Narrows, or 
+elsewhere. 
+ 
+And I want to say to the member, without trying to be too 
+political about it, I have sat here day after day, being aware 
+myself of the situation with respect to La Loche, and wondering 
+why it is that the member representing Athabasca gets up day 
+after day and presents petitions on behalf of the people of 
+Regina and the South, who have many hospitals to go to, and  
+
+
+
+3114  Saskatchewan Hansard June 24, 1996 
+
+never once has presented any petition, as far as I know, on 
+behalf of the people of La Loche and the North, who actually 
+need some kind of change in the health care system. 
+ 
+Mr. Belanger:  Well, Mr. Speaker, contrary to what the 
+minister may feel, there are petitions coming, and there will be 
+more petitions coming on a wide range of issues. So let me 
+assure you, Mr. Minister, that petitions in reference to health 
+care in northern Saskatchewan are coming. 
+ 
+In the first session I believe my role, certainly here as a member 
+of this caucus, is to represent as best as I can all Saskatchewan 
+people, with the Athabasca people as well, to make sure their 
+needs are integrated with the common front that we want to do 
+to protect health care. 
+ 
+The fact of the matter, Mr. Minister, is that the situation here 
+really doesn’t point me to come up and say yes, maybe I 
+shouldn’t be speaking about the situation in the South. But 
+really the issue here is not of me defending health care in 
+southern Saskatchewan. The issue really is, what are you going 
+to do about that hospital? That’s the question that remains to be 
+answered here. And this is a point and a question I’ve been 
+asked for the last 17 years. That’s the whole issue in reference 
+to St. Martin’s Hospital. 
+ 
+Now what we know, Mr. Minister, from various correspondents 
+and complaints we’ve gotten, you know, the trailers that we 
+have pushed together are certainly not a sound place to have 
+patients live. There are bats in the attic. There are mouse 
+droppings all over the place. And as we all know, some of the 
+mice, the deer mice that are very prevalent in that area also 
+carry . . . are known to carry the hantavirus, I believe it’s called. 
+Now that is not a sanitary place to have people and patients 
+live. 
+ 
+And then you go on to talk about the other visitors that the 
+hospital has. Now whether we sit here and argue about whether 
+I speak on behalf of Regina or whether I speak on behalf of the 
+North is not the issue here. The issue is, day in and day out, 
+people of La Loche going to St. Martin’s Hospital in a bunch of 
+trailers to receive health care. That’s the issue. 
+ 
+So the question I have is . . . certainly not being a politician 
+myself, really I am not the minister of Health. If I were the 
+minister of Health, I would immediately rebuild that hospital to 
+a decent level to show respect to the people of St. Martin’s 
+Hospital, to show that these people are indeed part of the 
+Saskatchewan community, that these people have waited long 
+enough, that these people have been patient enough, and that 
+these people have suffered enough through that facility that’s 
+called a hospital. 
+ 
+And that’s my whole point here. And we’re talking about a new 
+mine in northern Saskatchewan. Why do we speak about a new 
+mine? One mine in northern Saskatchewan is valued at $8 
+billion, Mr. Minister  $8 billion. And the people that live in 
+the North with the mining activity of that nature, for one mine 
+alone, have to go to a hospital that have trailers put together. 
+ 
+That is the real crux of the problem here. It’s not federal  
+
+transfer cuts. It’s not whether the member from Athabasca gets 
+up every morning and talks about the health care cuts for this 
+city. The real issue is the people of the North are simply tired of 
+waiting for support and are very impatient when it comes to 
+health care. That’s the issue, Mr. Minister. 
+ 
+Hon. Mr. Cline:  Well the member can get up and say he’s 
+not a politician, but the fact is that the member is a member of 
+this Chamber. The member is a representative of the Liberal 
+Party. The member was nominated by the Liberal Party, elected 
+as a Liberal. And if I was the member, I might want to 
+disassociate myself with that group of individuals over there as 
+well, especially after the way the former leader of the Liberal 
+Party was treated by that group behind closed doors. 
+ 
+But that’s not the issue, Mr. Chair, and I agree with the member 
+in that regard. But I say to the member, not wanting to be 
+difficult or political myself, but the fact is that the member has 
+stood in this House more times and talked about the conversion 
+. . . or the closure of the Plains Health Centre in consolidation 
+of health services in Regina than the member has talked about 
+health services in the North. And I say to the member, you can’t 
+have it both ways. You can’t have improvements in the North 
+and preventative health, as the member talks about, without 
+changes to the health care system. 
+ 
+And if the member is trying to disassociate himself from the 
+policy of the Liberal Party, I support the member in that regard. 
+And I agree with him that it is not a very forward-looking 
+policy. 
+ 
+But as I’ve tried to indicate to the member, there is a committee 
+looking at the west-side communities that the member 
+represents and trying to examine the health facilities that are 
+required up there. There’s a planning committee of seven 
+representatives of west-side communities, and I think the 
+member will be familiar with that. I and the department are 
+waiting for a report from that committee. 
+ 
+That report from northern people will assist us in terms of 
+planning facility changes in the North. It’s my hope, as it is the 
+hope of the member, that some improvement will be made with 
+respect to the situation in La Loche. I’m sympathetic to the 
+member’s point of view in that regard. 
+ 
+And when this committee reports, I’ll be happy to consult with 
+the member about what I think is much more important than the 
+Plains hospital issue, quite frankly, and that is the issue of 
+health services in the North. And I think the member is right. 
+We have to get off the dime of always discussing what’s going 
+on in southern Saskatchewan and sometimes take a look at the 
+health services they have up in the North. 
+ 
+Mr. Belanger:  Thank you. And just to continue on with the 
+estimates section of this particular part of our session, I was 
+going to ask, when you have northern health services branch, 
+what’s their total operating cost per year? And of that cost, what 
+is staff versus program cost? 
+ 
+(2130) 
+ 
+
+
+
+June 24, 1996 Saskatchewan Hansard 3115 
+
+Hon. Mr. Cline:  There’s a total of $11.341 million in the 
+budget for this year; of which salaries are 3.956 million; 
+operating is 3.088 million. You’ll see that that only totals 7.044 
+million. That leaves 4.3 million basically, and I’m advised that 
+figure goes to various grants to third parties. And at the moment 
+I don’t have a list of those grants, although I think we can 
+probably locate one if the member will bear with us for a few 
+minutes. 
+ 
+Mr. Belanger:  Thank you. While we’re getting the 
+information about the grant situation, when we do make a 
+choice, a decision regarding the health districts in northern 
+Saskatchewan, have you got an inkling as to how many health 
+districts may be formed? And if there is an idea as to how many 
+districts might be formed, how will the allocation of funding 
+be? Will we see an increase in this funding of 11 million in 
+recognition of the tremendous challenges facing northern 
+Saskatchewan when it comes to health choices? 
+ 
+And as well, the fact that we haven’t got any health facilities 
+and that there’s a number of areas where we can use 
+improvements and staff as well. So the situation, the question 
+clearly is, how will you be allocating the staff, and how many 
+health districts do you look at in reference to the budgets and all 
+that? How will we be allocating those budgets to the North? 
+ 
+Hon. Mr. Cline:  I and the minister of northern 
+Saskatchewan will be meeting the local people that are involved 
+in planning the district formation on July 22. And after that we 
+will be making a recommendation to cabinet with respect to the 
+number of districts. 
+ 
+In terms of the budget, I would expect the funding to the 
+northern health services next year to be relatively stable. Our 
+indication has been that we will maintain health care funding at 
+the same level this year, notwithstanding federal cut-backs. 
+We’re putting extra provincial money in. Next year, federal 
+cut-backs will be twice as high as they are this year, basically. 
+We will make up the difference for the health districts in 
+northern Saskatchewan and southern Saskatchewan so that they 
+do not lose any money as a result of the Liberal cuts. 
+ 
+But I think the best we can do in view of what the Liberals are 
+doing to health care financing is probably to maintain stable 
+funding. But we’ll certainly undertake to do that, and I’m in 
+agreement with the member, that we have to do our best to 
+back-fill for the federal Liberals. 
+ 
+In terms of the figures we were talking about a few minutes 
+ago, the grants to third parties are 2.248 million; and on 
+northern transportation, the sum of 1.049 million is spent. The 
+figure I gave you before for salary and operating was 7.044 
+million. If you add the grants of 2.248 million and northern 
+transportation of 1.049 million, you get the total spending of 
+11.341 million. 
+ 
+Mr. Belanger:  Thank you. And of the . . . in reference to the 
+transportation grant of 1.049 million, would you be able to give 
+me a breakdown of those costs as to which people were 
+transporting patients, as well as . . . 
+ 
+
+Has your government ever done  or your department ever 
+done  a cost/benefit analysis in terms of having services in 
+northern Saskatchewan as opposed to transport them out of 
+northern Saskatchewan to southern locations? Because 
+obviously funding for health care centres and health districts 
+boards will most certainly mean needs assessment. And I’m just 
+wondering if you had any work done in that effort to try and 
+utilize the northern facilities that we are hoping to have built 
+within the next several years. 
+ 
+Hon. Mr. Cline:  I don’t have any breakdown of the northern 
+transportation payments. These aren’t grants but payments to 
+people who need to be transported out. 
+ 
+And in answer to the question, is an assessment done with 
+respect to the cost-effectiveness of this  yes, that is done on 
+an ongoing basis. That is, the decision is asked . . . or the 
+question is asked, whether it makes more sense to try to treat 
+the person in the North or whether you truly have to take them 
+out. And a decision is made in these cases — the $1.049 million 
+that they have to be taken out for the treatment they require. 
+ 
+But what we would like to do, to the extent we can, is reverse 
+that, so that if there are services that can be provided at the 
+hospitals in the North, including the La Ronge Health Centre, 
+and perhaps the new centre designed for the Athabasca basin, 
+and on the west side once we get the report of the community 
+people up there and plan accordingly, it would be our desire 
+certainly to provide whatever services could feasibly be 
+provided in the North. 
+ 
+I think the member will know that there are many, many 
+services that cannot feasibly be provided in the North just 
+because of the sparsity of the population, in the same way that 
+they couldn’t be provided in many parts of the South. There are 
+lots of services that are just provided in Saskatoon and Regina, 
+and sometimes Saskatoon, Regina, Prince Albert, North 
+Battleford, Yorkton, Swift Current, and so on — Moose Jaw — 
+that aren’t provided in the smaller centres. 
+ 
+But to the extent we can, I agree with the member that we 
+should certainly be examining that on an ongoing basis and 
+providing every service we can in northern Saskatchewan. 
+ 
+Mr. Belanger:  Thank you, Mr. Minister. In reference to the 
+3 million you indicated for staff, as well as the 3 million you 
+mentioned in reference to operating, that totals close to $7 
+million. How much of the $7 million is actually spent right in 
+the town of Lac La Ronge? 
+ 
+Hon. Mr. Cline:  It is difficult to answer that question 
+because many of the people are based in La Ronge but provide 
+services throughout the North. They will travel around 
+providing nursing services or counselling services and so on. 
+ 
+So we don’t have a breakdown in terms of what services are 
+provided in La Ronge versus the rest of the North. And that 
+would be quite difficult to come up with in the sense that 
+northern health services is headquartered in La Ronge but 
+provides services throughout the North, sometimes on a 
+travelling basis. 
+
+
+
+3116  Saskatchewan Hansard June 24, 1996 
+
+I think though that once we set up districts, assuming that there 
+is more than one district in the North, then . . . I know what the 
+member is getting at, which is, are we spending a 
+disproportionate amount on the east side, La Ronge, as opposed 
+to the west side? But the problem  if there is a problem  
+will work itself out in the sense that if you have more than one 
+district, let’s assume, and you have one on the east side and the 
+west side, those districts will have to be funded presumably on 
+a population basis. 
+ 
+So at that point the funding to the districts will become 
+probably much more transparent than it is now, and it will be 
+quite clear to the member eventually that the funding is done on 
+an equitable basis, or if there’s some problem with it, what 
+adjustment needs to be made. 
+ 
+Mr. Belanger:  At this point in time, when you speak about 
+the situation of having equitable funding for different districts 
+of northern Saskatchewan, I think we can certainly support, you 
+know, that effort. 
+ 
+What’s been happening is, what we’ve seen is, the west side 
+certainly have had their share of problems over the years. And 
+it’s always an ongoing battle as to what’s the best way that we 
+can improve health care. And obviously, Mr. Minister  and 
+I’ve heard you say it on a number of occasions  is to 
+empower people to make decisions over budgets and services 
+out of the health district. 
+ 
+So in reference to that situation, are you saying to me this 
+evening that, as Minister of Health, that you would ensure  
+based on the information that if there was indeed three health 
+districts for northern Saskatchewan, excluding the far 
+Athabasca communities; there’d be an east side, there’d be a 
+central, and there’d be a west side health district — that you 
+would fund them according to their population, thereby turning 
+over all control, and hiring decisions, and policy choices to 
+these local health boards. 
+ 
+Is that what I’m hearing you say this evening? 
+ 
+(2145) 
+ 
+Hon. Mr. Cline:  Yes. The districts in the North, like the 
+districts in the South, would be funded on the basis of 
+population. Then there would be a needs-based adjustment. For 
+example, if the population of one district was such that they had 
+more very young children or elderly people, then they would get 
+more, the same way as in the South. You make adjustments 
+based upon the demographics. 
+ 
+And there would be needs-based adjustments as there are in the 
+South, so that if people from one district go to another, some of 
+the funding follows the people and so on. But generally 
+speaking, the system would be the same in the North as it is in 
+the South. 
+ 
+So I think the system would be an equitable system. You can 
+get into a debate, that we often have in this legislature, that 
+everybody would like more money. And I understand that. So 
+all the districts would like more money, but generally speaking  
+
+the funding of the districts in the North would have to be 
+justifiable on a certain rational basis, i.e., you know, there are 
+so many people in each area and you start from that premiss and 
+work from there. 
+ 
+But it would not be a system designed specifically for the 
+North. It would be basically the same sort of formula that we 
+have in the South. But we think that that is a more fair and 
+equitable way to allocate health care funding than has been 
+done in the past. 
+ 
+Mr. Belanger:  Thank you, Mr. Minister. The reason why 
+I’m asking that question, Mr. Minister, is simply for the fact 
+that I think it’s very important that we look at the point of fair 
+service and access to service. I think that’s the whole issue 
+we’re talking about when we talk about health care in northern 
+Saskatchewan. 
+ 
+And what I don’t want to see . . . and I think a lot people are 
+really watching the particular problem. And if it certainly 
+happens . . . because what we don’t want to see is we don’t 
+want see the west side completely forgotten. We don’t want to 
+see the east side communities completely forgotten. We don’t 
+want to see the far northern communities completely forgotten, 
+with La Ronge being the central headquarters and having the 
+whole North as one district. 
+ 
+I think you’re hearing that message loud and clear, that the 
+people of northern Saskatchewan feel  because of their 
+particular problems, the lack of infrastructure we’ve spoken 
+about for many years, and the fact that they’re basically not in 
+charge of many of the health care dollars that are coming in 
+northern Saskatchewan  that there is no choice but for the 
+government to recognize these particular regions. 
+ 
+Now if we do go to four health districts, what I don’t want to 
+see happen, Mr. Minister, is to have these health districts tied 
+into the La Ronge facility, thereby again creating the same thing 
+but under a different set-up. 
+ 
+And clearly what’s got to happen is the health districts, if there 
+are four of them, they got to have control of their dollars. 
+They’ve got to have control of their decision making, and they 
+certainly got to have some extra dollars to deal with the 
+problems that they’ve had for many years. 
+ 
+And we’ve seen Lac La Ronge get a new facility. I realize that 
+there was some federal dollars and perhaps in the Athabasca 
+basin there may be some more federal dollars for the health care 
+facility up there. But my point clearly is that if we’re going to 
+have health districts in northern Saskatchewan and if there is 
+four or five health districts, that these health districts certainly 
+have control of their allocation of dollars and certainly have 
+access to decent facilities. 
+ 
+Now again, the point that we raise is, time after time after time, 
+La Loche has been calling for a new hospital, a new health 
+service centre. And then certainly on the other hand, we see that 
+Lac La Ronge has got a brand-new facility. So the point we 
+want to raise and I certainly want to make on their behalf, is 
+that what is good for La Ronge should be good for the west side  
+
+
+
+June 24, 1996 Saskatchewan Hansard 3117 
+
+as well. 
+ 
+So my point is, can you ensure me today that if there is indeed 
+four or five districts set up, that they would have allocation of 
+funding based on their population and that they would have 
+control of that funding and that they would not be tied into any 
+particular, centralized service plan that you might have. 
+ 
+Hon. Mr. Cline:  Well they certainly won’t be tied into any 
+centralized service plan. They will receive population-based 
+funding. I should say to the member, as I think the member will 
+already know, that the per capita funding that will be paid for 
+health services in the North is now and will continue to be 
+higher than the per capita funding than in the South, simply 
+because of the distances and the difficulties that there are in the 
+North. So that’s a natural thing. 
+ 
+But the population-based funding will apply in the North the 
+same way as it applies in the South. The districts will certainly 
+not be obligated to use a central health facility as the member is 
+referring to. They will, as the southern districts are, receive 
+certain pools of money, and so they will have a certain amount 
+of money for acute care services or hospital services, nursing 
+home services, community-based and home care services and so 
+on, as they do in the South, but there will not be any special, 
+added-on obligations to the health districts up there that do not 
+apply down here. 
+ 
+Mr. Belanger:  Thank you, Mr. Minister. Just a couple of 
+more questions from my point and I’ll turn it over to my 
+colleague. 
+ 
+I guess one of the points I wish to make in terms of health care 
+in northern Saskatchewan, especially the west side, health care 
+dollars for the North, it’s very low. And we certainly see that. 
+But the low level of funding is also complicated, Mr. Minister, 
+by the fact that many of these northern Saskatchewan 
+communities don’t have much say when it comes to the 
+decisions made for northern Saskatchewan health care. 
+ 
+And certainly northern Saskatchewan appreciates the continued 
+commitment to health care. There’s no question about that. But 
+there are still many deficiencies in the health services, and right 
+now as we speak there are no mental health workers for the 
+entire west side. 
+ 
+So my point is that we have to look at how people are placed, 
+how people are hired, and whether the system that we have now 
+spends a tremendous amount of money on either taking care of 
+people that may have been fired or taking care of people that 
+may have been wrongly dismissed, or maybe perhaps people . . . 
+trying to attract people to the North. All these issues really add 
+to a major problem and a major cost. 
+ 
+So the situation is, several people have come to me expressing 
+concerns about how workers are hired; where these workers are 
+placed; the lack of probationary assessment; and certainly 
+whether these people are qualified. And, Mr. Minister, I 
+wouldn’t mind hearing from you if you know of anybody that is 
+in northern health services branch that isn’t qualified to hold a 
+certain position. And if you are, would you be able to provide  
+
+me with that information? 
+ 
+At this point in time, we’re seeing that there’s very little control 
+over who gets hired and where they’re placed by the people of 
+the North. And who decides what area gets funding? Is it 
+officials from your department or is it officials from the 
+northern health services branch? What role is . . . or who fills 
+this role when it comes to deciding who is hired and who is 
+qualified and so on and so forth? 
+ 
+Hon. Mr. Cline:  Well I appreciate what the member is 
+saying. I think when the health districts are created, there will 
+be an opportunity for much greater community control because 
+the community will be selecting the boards that will be running 
+the districts. 
+ 
+I think that there are people working on the west side in the area 
+of mental health at the moment, contrary to the situation several 
+months ago. I think there has been some improvement in that 
+regard, but in any event this will become a matter under local 
+control when the districts are set up. 
+ 
+I’m not aware of any problems with respect to the qualifications 
+of people working in the northern health services branch. If the 
+member has some particular concerns and would like to send 
+me details concerning any individuals, I’d be happy to look into 
+them. I can’t say that I’m aware of any problems of that nature 
+tonight. 
+ 
+Mr. Belanger:  Thank you, Mr. Minister. Again, just in 
+closing, I want to thank you and your officials for taking the 
+time to answer some of these questions and also to point out 
+that northern Saskatchewan does have a tremendous amount of 
+problems. And for many years, a lot of communities have been 
+fighting and vying for this brand-new hospital concept we’re 
+talking about. 
+ 
+Mr. Minister, we have approximately 15,000 people sharing one 
+facility on the west side, so there may be room for two facilities 
+at the very least. And there may be room for other ways and 
+means in which we can improve health care. 
+ 
+So the situation is clear, Mr. Minister, that northern 
+Saskatchewan people really deserve the respect that they should 
+have gotten many, many years ago by giving them adequate and 
+decent and suitable facilities. 
+ 
+And what we have to do as government is work hand in hand 
+with the people that are affected right at the community level 
+when it comes to the allocation and the decision making of 
+health care dollars. And I cannot stress to you the degree of 
+importance that the people of the North have placed on one fact 
+ that they don’t want one health district for the entire North. 
+They do not want that. 
+ 
+Because what that’s going to end up doing, it is going to end up 
+centralizing all the services in one location and thereby 
+disempowering people from the process of making decisions 
+affecting their health care and certainly their services that they 
+need. 
+ 
+
+
+
+3118  Saskatchewan Hansard June 24, 1996 
+
+And I go to the earlier point  all the tremendous social and 
+economic problems we’re having in northern Saskatchewan. 
+And yet there is no real clear plan to talk about the mental 
+health workers in northern Saskatchewan to help with some of 
+the problems of living in these northern communities. 
+ 
+And we can go through all the stats, stat by stat by stat. We can 
+talk about the problems with alcohol and drug abuse, the 
+problems with housing, and also the problems with suicide. 
+You know, it’s a very, very tough situation when we see young 
+people taking their lives out of frustration and out of a lack of 
+support. 
+ 
+So really the essence here, standing up today and politicking 
+back and forth, is not going to solve that problem. Real, true 
+commitment to northern Saskatchewan is going to solve that 
+problem. And that’s where we talk about compassion and this is 
+where we talk about empowering people to make these choices. 
+ 
+So I urge you, with all speed, to try and come up with a 
+successful resolution to this issue, work with the northern 
+people, respect their wishes, and watch very, very carefully that 
+the intent of what you’re trying to do when it comes to health 
+care is to empower these regions, empower these communities, 
+to finally have a say in health care and get their . . . finally get 
+their decent share of health services and health support from 
+this government. Thank you. 
+ 
+Hon. Mr. Cline:  Thank you. I just want to say, Mr. Chair, 
+that I appreciate the advice of the member in terms of the 
+formation of the health districts. 
+ 
+And I’ll certainly keep his comments in mind as we make a 
+decision, myself and the Minister of Northern Affairs, in terms 
+of that issue. 
+ 
+And I also want to say to the member that in terms of the 
+broader health issues like housing and the problem of suicide in 
+the North, I agree with him wholeheartedly that as a society, not 
+just the Department of Health, but Municipal Government and 
+housing and across the piece, we have to try to integrate and 
+coordinate our efforts in a much better way to try to solve some 
+of the really horrendous problems that there are certainly 
+throughout the province but also . . . and the country, but also in 
+northern Saskatchewan. 
+ 
+And I’m very sympathetic to what the member is talking about. 
+And I hope that some of our resources are in fact directed and 
+channelled to what the member is talking about  more 
+counselling — and try to look at the whole issue of wellness 
+including mental health, and why people commit suicide, and 
+those issues. Those are very important issues. 
+ 
+And I take what the member says to heart and I certainly hope 
+that we make some progress in that regard, in what’s a very 
+serious issue, over the next months and years. 
+ 
+Mr. Heppner:  Thank you, Mr. Deputy Chair. And welcome, 
+Mr. Minister, and your officials. 
+ 
+I have one question only and it basically deals with oxygen  
+
+supplies, and I’m referring to some of the tragic situations that 
+happen in Saskatchewan through sports accidents. And the 
+situation I’m referring to specifically is a hockey accident where 
+a young man was fairly seriously hurt and has become in need 
+of oxygen. 
+ 
+If he is in the hospital, then SAIL covers the cost of equipment. 
+If he’s at home, the equipment is also . . . the cost of the 
+equipment is also covered. However, at present he’s at the 
+Wascana Rehabilitation Centre and here he must buy his own 
+equipment. 
+ 
+And I guess I have two questions: why that discrepancy, that 
+while he’s at Wascana he has to take care of his own cost of 
+that equipment; and what would happen to him if he didn’t 
+have a trust fund that was set up for him to cover those costs? 
+ 
+(2200) 
+ 
+Hon. Mr. Cline:  Neither I nor any of the officials present 
+understand why the young man’s oxygen wouldn’t be paid for 
+at the Wascana Rehabilitation Centre. We can’t think of any 
+reason why his oxygen should be paid for in the hospital and at 
+home, as I understand it, but not at Wascana. 
+ 
+So the only answer we have is, if you would send over  not 
+this minute  but the name of the individual, then we would 
+conduct an investigation and see why it is that the oxygen isn’t 
+being paid for, because that does not seem to be the 
+understanding over here, that it shouldn’t be paid for. 
+ 
+So we certainly would be happy to look into it, and of course to 
+provide you with an explanation as to what has happened. 
+ 
+Item 1 agreed to. 
+ 
+Items 2 to 7 inclusive agreed to. 
+ 
+Vote 32 agreed to. 
+ 
+
+Supplementary Estimates 1995-96 
+General Revenue Fund 
+
+Health 
+Vote 32 
+
+ 
+Items 1 and 2 agreed to. 
+ 
+Vote 32 agreed to. 
+ 
+Hon. Mr. Cline:  Just before they leave, I’d like to thank the 
+officials from the Department of Health for their assistance 
+tonight, and also the excellent, hard work they do throughout 
+the year on behalf of the people of the province. 
+ 
+Mr. Osika:  Thank you, Mr. Chairman. I too, on behalf of 
+the official opposition, would like to extend our appreciation to 
+the officials from the Department of Health, and to you, Mr. 
+Minister, for assisting in the process this evening. 
+ 
+Thank you very much. 
+ 
+
+
+
+June 24, 1996 Saskatchewan Hansard 3119 
+
+Motions for Supply 
+ 
+
+Hon. Ms. MacKinnon:  Thank you, Mr. Chair. I resolve: 
+ 
+
+That towards making good the supply granted to Her 
+Majesty on account of certain expenses of the public 
+service for the fiscal year ending March 31, 1996, the sum 
+of $118,757,000 be granted out of the General Revenue 
+Fund. 
+ 
+
+Motion agreed to. 
+ 
+Hon. Ms. MacKinnon:  Thank you, Mr. Chairman. 
+ 
+
+Resolved, that towards making good the supply granted to 
+Her Majesty on account of certain expenses of the public 
+service for the fiscal year ending March 31, 1997, the sum 
+of $3,044,553,000 be granted out of the General Revenue 
+Fund. 
+ 
+
+Motion agreed to on division. 
+ 
+The committee reported progress. 
+ 
+
+FIRST AND SECOND READING OF RESOLUTIONS 
+ 
+
+Hon. Ms. MacKinnon:  Thank you, Mr. Speaker. I move 
+that the resolutions be now read the first and second time. 
+ 
+Motion agreed to, and the resolutions read a first and second 
+time. 
+ 
+
+APPROPRIATION BILL 
+ 
+
+Hon. Ms. MacKinnon:  Thank you, Mr. Speaker. By leave 
+of the Assembly, I move: 
+ 
+
+That Bill No. 123, An Act for granting to Her Majesty 
+certain sums of Money for the Public Service for the Fiscal 
+Years ending respectively on March 31, 1996 and on 
+March 31, 1997, be now introduced and read the first time. 
+ 
+
+Motion agreed to and, by leave of the Assembly, the Bill read a 
+first time. 
+ 
+Hon. Ms. MacKinnon:  By leave of the Assembly and under 
+rule 55(2), I move that the Bill be now read a second and third 
+time. 
+ 
+Motion agreed to and, by leave of the Assembly, the Bill read a 
+second and third time and passed under its title. 
+ 
+The Assembly adjourned at 10:13 p.m. 
+
+
+
+TABLE OF CONTENTS 
+ 
+
+EVENING SITTING 
+INTRODUCTION OF GUESTS 
+  Kowalsky .................................................................................................................................................................................3097 
+  Kasperski .................................................................................................................................................................................3105 
+ COMMITTEE OF THE WHOLE 
+ Bill No. 82  An Act respecting Health Facilities 
+  McLane ......................................................................................................................................................3097, 3099, 3102, 3108 
+  Cline .........................................................................................................................................................................................3097 
+  McPherson .................................................................................................................................................3098, 3100, 3106, 3108 
+  Aldridge ...................................................................................................................................................................................3101 
+  Osika ........................................................................................................................................................................................3106 
+ Recorded division (amendment) ................................................................................................................................................3109 
+THIRD READINGS 
+ Bill No. 114  An Act respecting the Establishment of a Crown Foundation for District Health Boards and their 
+
+Affiliates 
+  Cline .........................................................................................................................................................................................3110 
+ Bill No. 120  An Act respecting the Reorganization of Labour Relations between Health Sector Employers and 
+
+Employees 
+  Cline .........................................................................................................................................................................................3110 
+ Bill No. 82  An Act respecting Health Facilities 
+  Cline .........................................................................................................................................................................................3110 
+COMMITTEE OF FINANCE 
+ General Revenue Fund 
+ Health Vote 32 
+  Cline .........................................................................................................................................................................................3110 
+  McLane ....................................................................................................................................................................................3110 
+  Belanger ...................................................................................................................................................................................3112 
+  Heppner ...................................................................................................................................................................................3118 
+ Supplementary Estimates 1995-96 
+ General Revenue Fund 
+ Health  Vote 32 
+  Cline .........................................................................................................................................................................................3118 
+  Osika ........................................................................................................................................................................................3118 
+ Motions for Supply 
+  MacKinnon ..............................................................................................................................................................................3119 
+FIRST AND SECOND READING OF RESOLUTIONS 
+  MacKinnon ..............................................................................................................................................................................3119 
+APPROPRIATION BILL 
+  MacKinnon ..............................................................................................................................................................................3119 
+ 
+ 
+
+

@@ -1,0 +1,1059 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hansard: November 13, 2006
+
+
+ 
+
+THIRD SESSION - TWENTY-FIFTH LEGISLATURE 
+ 
+
+of the 
+ 
+
+Legislative Assembly of Saskatchewan 
+____________ 
+
+ 
+ 
+
+DEBATES 
+and 
+
+PROCEEDINGS 
+ 
+
+____________ 
+ 
+
+(HANSARD) 
+Published under the 
+
+authority of 
+The Honourable P. Myron Kowalsky 
+
+Speaker 
+
+ 
+
+ 
+N.S. VOL. XLVIV NO. 11B  MONDAY, NOVEMBER 13, 2006, 7 p.m. 
+ 
+
+ 
+
+
+
+MEMBERS OF THE LEGISLATIVE ASSEMBLY OF SASKATCHEWAN 
+ 
+ 
+Speaker — Hon. P. Myron Kowalsky 
+Premier — Hon. Lorne Calvert 
+Leader of the Opposition — Brad Wall 
+ 
+Name of Member Political Affiliation Constituency 
+   
+Addley, Hon. Graham NDP Saskatoon Sutherland 
+Allchurch, Denis SP Rosthern-Shellbrook 
+Atkinson, Hon. Pat NDP Saskatoon Nutana 
+Beatty, Hon. Joan NDP Cumberland 
+Belanger, Hon. Buckley NDP Athabasca 
+Bjornerud, Bob SP Melville-Saltcoats 
+Borgerson, Lon NDP Saskatchewan Rivers 
+Brkich, Greg SP Arm River-Watrous 
+Calvert, Hon. Lorne NDP Saskatoon Riversdale 
+Cheveldayoff, Ken SP Saskatoon Silver Springs 
+Chisholm, Michael SP Cut Knife-Turtleford 
+Cline, Hon. Eric NDP Saskatoon Massey Place 
+Crofford, Joanne NDP Regina Rosemont 
+D’Autremont, Dan SP Cannington 
+Dearborn, Jason SP Kindersley 
+Draude, June SP Kelvington-Wadena 
+Duncan, Dustin SP Weyburn-Big Muddy 
+Eagles, Doreen SP Estevan 
+Elhard, Wayne SP Cypress Hills 
+Forbes, Hon. David NDP Saskatoon Centre 
+Gantefoer, Rod SP Melfort 
+Hagel, Hon. Glenn NDP Moose Jaw North 
+Hamilton, Doreen NDP Regina Wascana Plains 
+Harpauer, Donna SP Humboldt 
+Harper, Ron NDP Regina Northeast 
+Hart, Glen SP Last Mountain-Touchwood 
+Hermanson, Elwin SP Rosetown-Elrose 
+Higgins, Hon. Deb NDP Moose Jaw Wakamow 
+Huyghebaert, Yogi SP Wood River 
+Iwanchuk, Andy NDP Saskatoon Fairview 
+Junor, Judy NDP Saskatoon Eastview 
+Kerpan, Allan SP Carrot River Valley 
+Kirsch, Delbert SP Batoche 
+Kowalsky, Hon. P. Myron NDP Prince Albert Carlton 
+Krawetz, Ken SP Canora-Pelly 
+Lautermilch, Hon. Eldon NDP Prince Albert Northcote 
+McCall, Hon. Warren NDP Regina Elphinstone-Centre 
+McMorris, Don SP Indian Head-Milestone 
+Merriman, Ted SP Saskatoon Northwest 
+Morgan, Don SP Saskatoon Southeast 
+Morin, Sandra NDP Regina Walsh Acres 
+Nilson, Hon. John NDP Regina Lakeview 
+Prebble, Peter NDP Saskatoon Greystone 
+Quennell, Hon. Frank NDP Saskatoon Meewasin 
+Serby, Hon. Clay  NDP Yorkton 
+Sonntag, Hon. Maynard NDP Meadow Lake 
+Stewart, Lyle SP Thunder Creek 
+Taylor, Hon. Len NDP The Battlefords 
+Thomson, Hon. Andrew NDP Regina South 
+Toth, Don SP Moosomin 
+Trew, Kim NDP Regina Coronation Park 
+Van Mulligen, Hon. Harry NDP Regina Douglas Park 
+Wakefield, Milton SP Lloydminster 
+Wall, Brad SP Swift Current 
+Wartman, Hon. Mark NDP Regina Qu’Appelle Valley 
+Weekes, Randy SP Biggar 
+Yates, Kevin NDP Regina Dewdney 
+Vacant  Martensville 
+ 
+
+
+
+ LEGISLATIVE ASSEMBLY OF SASKATCHEWAN 361 
+ November 13, 2006 
+ 
+[The Assembly resumed at 19:00.] 
+ 
+
+EVENING SITTING 
+ 
+
+GOVERNMENT ORDERS 
+ 
+
+SECOND READINGS 
+ 
+
+Bill No. 23 — The Securities Transfer Act 
+ 
+The Speaker: — The Chair recognizes the Minister of Justice. 
+ 
+Hon. Mr. Quennell: — Mr. Speaker, I rise today to move 
+second reading of The Securities Transfer Act. 
+ 
+Mr. Speaker, this is new, harmonized legislation that will 
+govern the transfer and holding of securities and interests in 
+securities. It is important to distinguish this new legislation 
+from securities regulatory law which governs how securities are 
+issued and traded. That law is contained in The Securities Act, 
+1988 and the significant body of regulations under that Act. 
+ 
+This legislation on the other hand is commercial property 
+transfer law that deals with only one narrow aspect of a 
+securities transaction, the transfer of property that occurs in the 
+settlement of a securities transaction. This new legislation will 
+repeal outdated provisions in The Business Corporations Act. It 
+includes consequential amendments to The Personal Property 
+Security Act which govern the use of securities as loan 
+collateral. It also includes amendments to The Executions Act 
+which govern the manner in which an interest in securities can 
+be seized. 
+ 
+The existing law pertaining to salient rules is found in The 
+Business Corporations Act and The Personal Property Security 
+Act. The provisions in those Acts are based upon the way in 
+which securities were traditionally held, transferred, and 
+pledged in a direct holding system in which the owners of 
+securities had a direct relationship with the issue of the 
+securities. 
+ 
+In the past, securities owners typically had share certificates in 
+their possession evidencing their interest in a corporation. 
+Today, Mr. Speaker, most securities are held through an 
+indirect holding system where shareholders do not hold actual 
+certificates evidencing their share interest. Instead the interests 
+of an investor are recorded on the books of an intermediary 
+such as a broker who in turn often has its interests recorded in 
+the books of another intermediary, and so on up the chain of 
+interests. Virtually all of these transactions are recorded by the 
+intermediaries through computerized book entries. At the top of 
+this chain is Canadian Depository for Securities Limited, CDS, 
+which clears between $100 and 150 billion in gross value trades 
+daily and holds nearly $2 trillion worth of securities on deposit. 
+ 
+The problem with current Canadian law is that our securities 
+transfer rules are almost entirely based upon old versions of the 
+American Uniform Commercial Code. The provisions found in 
+the business corporations and personal property legislation in 
+each province and territory continue to be based upon a direct 
+holding system which accounts for only a small proportion of 
+securities held by Canadian investors. The existing provisions 
+
+are not capable of providing an appropriate level of statutory 
+support for the indirect holding system which makes up almost 
+all securities transactions. 
+ 
+This problem has been addressed on an international basis by 
+The Hague Conference on Private International Law which 
+adopted a multilateral convention on laws applicable to 
+securities held through an intermediary. Article 8 of the 
+Uniform Commercial Code in the United States has been 
+revised to reflect the provisions of The Hague convention. 
+ 
+To remain current internationally, it is necessary for Canadian 
+jurisdictions to adopt legislation consistent with The Hague 
+convention and a Uniform Commercial Code. A task force of 
+the Canadian Securities Administrators at the request of the 
+Uniform Law Conference of Canada has led the development of 
+this legislation. A draft uniform Act was adopted by the 
+Uniform Law Conference of Canada at its annual meeting in 
+Regina in August 2004. 
+ 
+Canadian provinces and territories have worked together to 
+maintain uniformity of the legislation in all jurisdictions. 
+Ontario and Alberta introduced legislation in the spring of 
+2006. All other provinces and territories have indicated a 
+willingness to enact harmonized legislation by 2007. Federal 
+legislation, which is not critical to the effective operation of the 
+provincial-territorial legislation, is anticipated to follow in due 
+course. 
+ 
+Mr. Speaker, the objective of this legislation is to provide a 
+sound legal foundation for existing securities holding and 
+transfer systems. It is necessary that this legislation be uniform, 
+not only on an interprovincial basis but that it also harmonized 
+with revised article 8 of the Uniform Commercial Code in the 
+United States and The Hague convention. 
+ 
+This legislation achieves uniformity by removing existing 
+securities transfer provisions from provincial corporate statutes 
+and placing them in a separate statute, the same scope and effect 
+as revised article 8. 
+ 
+The enactment of the proposed legislation will provide a sound 
+and modern legal foundation for existing practices. Although 
+the individuals and businesses engaged in securities settlement 
+activities are not resident in this province, they need to be able 
+to conduct transactions impacting Saskatchewan issuers, 
+intermediaries, and investors on the basis of the laws of this 
+province. The new Act will not require market participants in 
+Saskatchewan or any other jurisdictions to change their current 
+practices. Rather it will provide legal sanction and support to 
+current practices. 
+ 
+Inconsistencies in the clearing of settlement of securities 
+transactions carry enormous potential for risk to capital 
+markets. This is particularly the case with cross-border 
+transactions. With the lack of clear, harmonized laws and 
+conflict of law rules creates a risk that can be avoided through 
+enactment of this legislation. The overriding policy goal of this 
+legislation is to maintain the competitiveness of Canada’s 
+capital markets by ensuring that the legislation in each 
+jurisdiction has the same substantive effect as the Uniform 
+Commercial Code. 
+
+
+
+362 Saskatchewan Hansard November 13, 2006 
+
+Mr. Speaker, without appropriate legislation to underpin the 
+current activities of the securities settlement industry, systemic 
+risks create uncertainty for our capital markets. The failure of 
+one institution and the chain of intermediaries to meet its 
+obligations when due has the potential for a domino effect in 
+the system. This legislation will control this risk by statutorily 
+confirming the finality of settlement in a manner that will not 
+allow transaction performed according to the legislation to be 
+unwound. The minimization of this risk through harmonized 
+settlement legislation will not only protect individual investors, 
+but it will increase confidence in Canadian capital markets. 
+ 
+Mr. Speaker, I am pleased to move second reading of The 
+Securities Transfer Act. 
+ 
+Some Hon. Members: — Hear, hear! 
+ 
+The Speaker: — It has been moved by the Minister of Justice 
+that Bill No. 23, The Securities Transfer Act be now read a 
+second time. Is the Assembly ready for the question? The Chair 
+recognizes the member for Lloydminster. 
+ 
+Mr. Wakefield: — Thank you, Mr. Speaker. I’m pleased to be 
+able to add my comments to this Bill, transfer of securities Act. 
+ 
+As the minister has outlined, there needs to be some 
+readjustment, some recognition of really the new way of doing 
+a lot of the securities, the transfers. And I would like to offer 
+this observation, that in this particular world that we’re in, 
+securities and the transfer of securities becomes ever 
+increasingly important because the traditional ways of holding 
+equity or debt equity or investments is changing very rapidly. 
+And as you know, because it’s not a primary function that 
+we’ve seen here in this province — and I wonder why that is — 
+these securities are held by our people in Saskatchewan even 
+though that they are really regulated in other provinces. 
+ 
+So I’m pleased that the minister is bringing forward this 
+particular amendment to the transfers securities Act. My 
+question is, why hasn’t it happened sooner? The investing in 
+securities has been going on for some time. It’s becoming more 
+and more popular as there is becoming more and more choices 
+for people. 
+ 
+So it naturally becomes a matter of confidence, confidence in 
+both the investor and confidence in the system that there is 
+going to be the ability to transfer the securities from one name 
+to another name to another name but also in a much more 
+increasingly complicated system that we are involved in. And 
+therefore we need to make sure that there is proper protection 
+for the people that wish to take advantage of the security 
+investment opportunity. 
+ 
+This becomes increasingly important as we get into the world of 
+globalization and as we actually start trading more and more 
+between provinces. This has to be harmonized. The intent of 
+this Act is addressed; the element of harmonization is 
+addressed. And I’m pleased to see that, not only 
+interprovincially within Canada and within our neighbouring 
+provinces but also there is consideration for harmonizing the 
+regulations into the US [United States] because of course there 
+is no borders left when we talk about financial investments, 
+securities and so on. With the flow of money, the flow of 
+
+information, the flow of capital, there is no borders any more. 
+ 
+This, I would hope, the government would use as an example of 
+trying to get into the next level of interprovincial trade, the next 
+level of interprovincial harmonization coordination both in 
+regulations and in areas that we could do a lot of joint work 
+together from province to province. I know that Alberta and BC 
+[British Columbia] are already going down that road quite 
+rapidly. I really believe this government has missed an 
+opportunity already. And now that it’s in a catch-up mode, if 
+they in fact would even consider doing that, in joining with the 
+three Western provinces to try to harmonize some of the 
+regulations and work collegially toward the objective of moving 
+western Canadian interests along now that the provincial 
+borders are virtually eliminated except for the physical 
+movement of people and commodities across a particular line. 
+Information, like I said — finance, securities — all those things 
+are virtually borderless at this stage. 
+ 
+I see in this new piece of legislation there are a lot of things that 
+I believe, as I mentioned, should have been included earlier are 
+now taken into consideration. But because it’s new, I believe 
+that we need to consult much more broadly. I would have hoped 
+that the government would have given us an indication that they 
+too would have consulted broadly. I’m not sure just how 
+broadly they have consulted because it is the people in the real 
+world that have invested their real money that are the ones that 
+have to make their interest known and their concerns, and 
+certainly the risks need to be presented to them as well. So it’s a 
+technical piece of legislation for sure. I think it really needs 
+further research, further review, and at this time I would move 
+adjournment of debate. 
+ 
+Some Hon. Members: — Hear, hear! 
+ 
+The Speaker: — It has been moved by the member for 
+Lloydminster that debate on second reading of Bill No. 23 be 
+now adjourned. Is it the pleasure of the Assembly to adopt the 
+motion? 
+ 
+Some Hon. Members: — Agreed. 
+ 
+The Speaker: — Motion is carried. 
+ 
+
+Bill No. 24 — The Alcohol and Gaming Regulation 
+Amendment Act, 2006/Loi de 2006 modifiant la Loi de 1997 
+
+sur la réglementation des boissons alcoolisées 
+et des jeux de hasard 
+
+ 
+The Speaker: — The Chair recognizes the minister responsible 
+for gaming. 
+ 
+Hon. Ms. Higgins: — Thank you very much, Mr. Speaker. Mr. 
+Speaker, I’m pleased to rise today to introduce the amendments 
+contained in Bill No. 24, The Alcohol and Gaming Regulation 
+Amendment Act, 2006. The Alcohol and Gaming Regulation 
+Act, 1997 provides a statutory basis upon which the 
+Saskatchewan Liquor and Gaming Authority regulates gaming 
+and the distribution and consumption of alcohol in the province. 
+ 
+Mr. Speaker, this Bill will provide SLGA [Saskatchewan 
+Liquor and Gaming Authority] with the legislative authority to 
+make grant payments to eligible charitable gaming licensees, 
+
+
+
+November 13, 2006 Saskatchewan Hansard 363 
+
+and will provide a mechanism for the Department of 
+Environment to implement future alcohol bans in provincial and 
+regional park campgrounds. 
+ 
+I will first address the amendments related to the charitable 
+gaming grant payments to eligible gaming licensees. 
+ 
+As you may be aware, Mr. Speaker, there are more than 2,600 
+groups and organizations in Saskatchewan that raise important 
+dollars through licensed charitable gaming. Historically 
+charitable gaming has included bingos, break-open ticket sales, 
+and raffles. These groups and organizations are made up of 
+people who care about the communities that they live in. They 
+work hard to raise money that makes their communities 
+stronger. The list of beneficiaries include friendship centres, 
+cadets, Scouts, Girl Guides, 4-H clubs, community associations, 
+service clubs, hospital foundations, volunteer fire departments, 
+and, Mr. Speaker, the list goes on and on. 
+ 
+[19:15] 
+ 
+Mr. Speaker, SLGA launched a charitable gaming review in the 
+fall of 2004. The review gave those charitable gaming licensees 
+the opportunity to share their opinions with the future direction 
+of charitable gaming here in Saskatchewan. What we heard 
+from the licensees, Mr. Speaker, is that charitable gaming 
+dollars have dwindled through the past decade and something 
+needed to be done to help revitalize their gaming-related 
+fundraising activities. 
+ 
+Mr. Speaker, government listened to those concerns and was 
+pleased to make changes that will benefit charitable gaming 
+licensees and more importantly the people of Saskatchewan. In 
+May we announced that Texas hold ’em and Monte Carlo 
+fundraising events would be eligible for charitable gaming 
+licenses. We also announced a new 25 cent grant for every 
+dollar that groups and organizations raise through licensed 
+bingos, break-open ticket sales, raffles, and Monte Carlo and 
+Texas hold ‘em poker tournaments. 
+ 
+Mr. Speaker, the amendments in this Bill will allow SLGA to 
+immediately begin issuing those grants. Grants will be based on 
+charitable gaming activities that take place on or after April 1, 
+2006. Once the first grant payments are made, charities will 
+receive grants every quarter in which they report their net 
+gaming proceeds. 
+ 
+Mr. Speaker, I’d also like to speak about alcohol bans in 
+provincial and regional park campgrounds. Amendments in this 
+Bill will ensure that the minister responsible for The Parks Act 
+and The Regional Parks Act, 1979 has the authority to issue 
+orders banning the possession and consumption of beverage 
+alcohol in designated campgrounds for specified periods of 
+time. 
+ 
+Unfortunately, Mr. Speaker, in recent years we have seen issues 
+of over-consumption, violence, and damage to property in 
+provincial and regional parks. Generally these incidents have 
+occurred during long weekends and have at times jeopardized 
+public safety. The recent alcohol ban this past May long 
+weekend in Saskatchewan parks has helped to minimize 
+over-consumption, violence, and damage to property. 
+ 
+
+The proposed amendments in this Bill will also make it an 
+offence to possess or consume beverage alcohol in a designated 
+campground that has an alcohol ban in effect. 
+ 
+So then, Mr. Speaker, the intent of this Bill overall is to provide 
+SLGA with the legislative authority to make grant payments to 
+eligible charitable gaming licensees and to also formalize 
+policies and legislation that will continue to allow for temporary 
+alcohol bans in provincial and regional parks. 
+ 
+So I’m very pleased, Mr. Speaker, to move that Bill No. 24, The 
+Alcohol and Gaming Regulation Amendment Act, 2006 now be 
+read a second time. 
+ 
+Some Hon. Members: — Hear, hear! 
+ 
+The Speaker: — It has been moved by the minister of Liquor 
+and Gaming that Bill No. 24, The Alcohol and Gaming 
+Regulation Amendment Act, 2006 be now read a second time. 
+The Chair recognizes the member for Saskatoon Southeast. 
+ 
+Mr. Morgan: — Mr. Speaker, it’s my privilege to rise and 
+participate in the debate on this Act to amend the alcohol and 
+gaming Act. 
+ 
+Mr. Speaker, this Act provides some considerable latitude to the 
+minister of Parks and the minister responsible for regional parks 
+to make orders banning the consumption and possession of 
+alcohol for designated periods of time. This is in response to 
+occurrences that have happened in the parks where there’s been 
+excessive consumption of alcohol, fighting, damage, assaults on 
+police officers, and a variety of other problems. Unfortunately 
+this has been a chronic problem in our parks since back 
+probably before I was in my teens, because I remember issues 
+about it when I was in high school, reading about it in the paper 
+that certain parks were becoming problematic. 
+ 
+And we now fortunately have an increased focus on safety in a 
+general sense. We have groups like Mothers Against Drunk 
+Driving, Students Against Drunk Driving. We have alcohol and 
+chem-free graduation events. And I think this Bill is an 
+extension of the public’s desire to ensure safety not only on the 
+highways but in parks, and to have a responsible use of alcohol. 
+ 
+We’re pleased to hear that there was some degree of 
+consultation with park operators. We’re aware that regional 
+parks and provincial parks are funded largely by the taxpayer, 
+but we have to be cognizant of the fact that there is also private 
+vendors of liquor. They may have an adverse effect, but in our 
+consultation we have not heard that this is something that’s 
+going to be opposed by the public. But we will want to have 
+some consultation to determine whether there are people that 
+are affected. And if there are people that are affected, we want 
+to make sure that there’s some method of compensation or 
+some method of them dealing with lost revenue. 
+ 
+This type of legislation goes a long ways to ensure the safety of 
+our young people. I can imagine no worse tragedy for a parent 
+than to hear that their teenage son or daughter was killed in an 
+accident involving alcohol on one of our highways or in one of 
+our parks. So this will go somewhat to try and address those 
+concerns. And I think it’s of some significance to note that this 
+type of legislation is supported by Mothers Against Drunk 
+
+
+
+364 Saskatchewan Hansard November 13, 2006 
+
+Driving, Students Against Drunk Driving and, in a general 
+sense, by students and by young people. 
+The other sector of this Bill, Mr. Speaker, is amendments to 
+make changes to SLGA granting monies that were raised from 
+break-open tickets and lotteries. I think most people in this 
+province are not aware of the tens of millions of dollars that are 
+raised every year from break-open tickets and bingos. It actually 
+is massive amounts of money that are spent. 
+ 
+And when we look at this type of thing, Mr. Speaker, it’s 
+probably appropriate to consider the effects that gambling has 
+on the citizens of our province. And we should probably be 
+considering as well — and it’s the Saskatchewan Party policy 
+— to urge that there should be an impact assessment on any 
+kinds of new gambling or changes to gambling. So we think 
+that that’s something that we want to raise and flag for members 
+of the government at this time as something that they should be 
+considering as they go forward with this type of legislation. 
+ 
+We’re pleased to see that the monies are going to health 
+foundations and to hospital foundations so that there’s some 
+significant benefit to the taxpayers of this province. We’re 
+supportive of money going back into health care and pleased 
+that at least there’s some return on gambling and gaming 
+revenue for the province. 
+ 
+It would probably be worthwhile for the members opposite to 
+consider a careful assessment of where all of the money goes 
+from gaming revenue in the province, that it goes back to the 
+charities and determine that there’s legitimate charities that are 
+applying for these funds and that the funds are used in the 
+manner in which they were intended by way of having periodic 
+or random audits on some of the charities that receive the funds. 
+When we know when they go to a health foundation or a 
+hospital foundation, that they’re in all likelihood used in a very 
+careful and prudent manner because we’ve had very good 
+success with the hospital foundations in this province. 
+ 
+Coming back briefly in my closing remarks, Mr. Speaker, to the 
+issue of alcohol in campgrounds, this Bill addresses and deals 
+with our provincial parks and regional parks. It does not deal 
+with private facilities, privately owned parks, or campgrounds. 
+And it’s possible that some thought should be given or could 
+have been given to whether it was appropriate to include those 
+in the ban as well, or the right to have bans because there can be 
+issues with private campgrounds, private party areas where 
+people will go there, consume large amounts of alcohol, and 
+then we’ll have those people back on the highways and 
+roadways after they’ve finished an evening of partying. 
+ 
+Mr. Speaker, we will want to have some further discussion with 
+the people that are directly affected by this Bill. I would move 
+adjournment of debate. 
+ 
+The Speaker: — It has been moved by the member for 
+Saskatoon Southeast that debate on second reading of Bill No. 
+24 be now adjourned. Is it the pleasure of the Assembly to 
+adopt the motion? 
+ 
+Some Hon. Members: — Agreed. 
+ 
+The Speaker: — Motion is carried. 
+ 
+
+Bill No. 25 — The Legislative Assembly and Executive 
+Council Act, 2006/Loi de 2006 sur l’Assemblée législative et 
+
+le Conseil exécutif 
+ 
+The Speaker: — I recognize the Government House Leader. 
+ 
+Hon. Mr. Hagel: — Thank you very much, Mr. Speaker. I rise 
+today to move second reading of The Legislative Assembly and 
+Executive Council Act, 2006. 
+ 
+Mr. Speaker, in 2005 The Legislative Assembly and Executive 
+Council Act, 2005 was introduced to consolidate and update the 
+allowance in remuneration provisions of The Legislative 
+Assembly and Executive Council Act. It also set out the powers 
+and duties of the Board of Internal Economy so as to better 
+recognize its functions as the management board of this 
+Legislative Assembly. 
+ 
+As members of the Legislative Assembly will recall, that Act 
+was a co-operative effort between the government, the 
+opposition, the Speaker’s office, the Office of the Clerk, and the 
+office of the Legislative Counsel and Law Clerk. In addition I 
+would note that the members of the Board of Internal Economy, 
+the all-party management board of this Legislative Assembly, 
+played a significant role in the development of that legislation. 
+ 
+Mr. Speaker, in 2005 the Act was passed unanimously by this 
+Legislative Assembly. It was passed on the understanding that a 
+bilingual version of this key legislation would follow once the 
+French version had been completed. Mr. Speaker, I’m pleased 
+to introduce today a new Bill that replaces the existing English 
+Act with a fully bilingual Bill with no substantive changes from 
+that previous Act. 
+ 
+The Legislative Assembly and Executive Council Act, 2006 is 
+central to the governance of this legislature and therefore the 
+province. Accordingly I am sure all members of the Assembly 
+will agree that it is appropriate that it be presented to the people 
+of Saskatchewan as a bilingual Bill. 
+ 
+Mr. Speaker, I therefore move second reading of An Act 
+respecting the Legislative Assembly of Saskatchewan and the 
+Executive Council of Saskatchewan and making a 
+consequential amendment to another Act. 
+ 
+The Speaker: — It has been moved by the Government House 
+Leader that Bill No. 25, The Legislative Assembly and 
+Executive Council Act, 2006 be now read a second time. The 
+Chair recognizes the member for Saskatoon Southeast. 
+ 
+Mr. Morgan: — Mr. Speaker, I’m pleased to enter into the 
+debate and discussion regarding this Bill. This Bill is for the 
+highly supported position that we want to ensure that there is a 
+bilingual version of this type of legislation available in our 
+province. 
+ 
+We note as well, Mr. Speaker, that there is a number of editing 
+and other housekeeping changes. As they say, Mr. Speaker, the 
+devil can be found in the details. And we will want to go 
+through this Bill very carefully and look at its predecessors to 
+make sure there is nothing that crept in accidentally or crept in 
+through whatever means the government members have to try 
+and do some of . . . [inaudible] . . . We will want to check this 
+
+
+
+November 13, 2006 Saskatchewan Hansard 365 
+
+Bill very carefully to ensure that it fulfills its intent and that it 
+doesn’t do something that we don’t want it to. 
+ 
+Whenever there is an update or a change in this type of 
+legislation, it’s a worthwhile exercise to review the Bill 
+carefully and to ensure that it, even in its former form, met its 
+need. It’s this type of Bill that gives need for the legal 
+profession and certainly gives many of us a raison d’être so that 
+we have a legitimate purpose. And certainly this type of 
+legislation is exactly the type of Bill, Mr. Speaker, that gives us 
+the reason for existing, the reason for our paycheques. And we 
+will, Mr. Speaker, I want to undertake to you, give this Bill very 
+careful and very detailed scrutiny. 
+ 
+When I was going through this Bill — and I would urge all 
+members to go through this Bill in some detail — there is some 
+very interesting things in here. For example, Mr. Speaker, this 
+Bill is what creates the Office of the Speaker, the Deputy 
+Speaker, indicates how they are to be paid. It also creates the 
+Board of Internal Economy. It creates the framework for 
+members of the legislature to be paid. It deals with which 
+members of the public are not entitled to become members of 
+the Legislative Assembly, when they cease to become members 
+of the Assembly, and something that probably a lot of members 
+weren’t aware of is that the Legislative Assembly can actually 
+constitute itself as a court and imprison other members. 
+ 
+Now when I was reading that, I frankly, Mr. Speaker, I gave 
+some thought to it. Well maybe that’s a motion that we should 
+bring forward sometime. Is there members that we would want 
+to see incarcerated? And anyway I say that in pure jest of 
+course. But it is an indication of the significant power and trust 
+that members of the legislature have, and it’s something that 
+members should not take lightly. They should reflect upon what 
+they’re doing and consider carefully the position of trust that 
+they’re in with the citizens of this province. 
+ 
+[19:30] 
+ 
+Mr. Speaker, we will be reviewing this Bill in somewhat more 
+depth. I will be asking some of our researchers to be burning 
+some midnight oil doing a line-by-line, word-by-word analysis 
+of this Bill, and want to assure the House that it will be given all 
+due deliberation. 
+ 
+Mr. Speaker, I will move adjournment of debate. 
+ 
+The Speaker: — It has been moved by the member for 
+Saskatoon Southeast that debate on Bill No. 25 be now 
+adjourned. Is it the pleasure of the Assembly to adopt the 
+motion? 
+ 
+Some Hon. Members: — Agreed. 
+ 
+The Speaker: — Motion is carried. 
+ 
+
+Bill No. 26 — The Legislative Assembly and Executive 
+Council Consequential Amendments Act, 2006 
+
+ 
+The Speaker: — The Chair recognizes the Government House 
+Leader. 
+ 
+Hon. Mr. Hagel: — Well, Mr. Speaker, I rise again to move a 
+
+second reading of The Legislative Assembly and Executive 
+Council Consequential Amendments Act, 2006. 
+ 
+Mr. Speaker, with the passage of The Legislative Assembly and 
+Executive Council Act, 2005 in English only in the previous 
+session of this Legislative Assembly, a separate bilingual 
+consequential amendment Act was required. With the new 
+bilingual Bill now having been introduced — and of significant 
+interest to the hon. member opposite, I might note — having 
+been introduced to the Legislative Assembly, those bilingual 
+consequential amendments may now be included in part 7 of 
+the main Bill, while the English-only consequential amendment 
+may be moved to The Legislative Assembly and Executive 
+Council Consequential Amendments Act, 2006. 
+ 
+Mr. Speaker, these consequential amendments for the most part 
+reflect the need to change the previous references to the name 
+of the Act from 2005 to 2006. In addition there is a correction 
+made to the language in a previous amendment to The 
+Members’ Conflict of Interest Act and the reference to the Act 
+in The Government Organization Act is updated. 
+ 
+Therefore, Mr. Speaker, I move second reading of An Act to 
+make consequential amendments to certain Acts arising from 
+the enactment of The Legislative Assembly and Executive 
+Council Act, 2006. 
+ 
+Some Hon. Members: — Hear, hear! 
+ 
+The Speaker: — It has been moved by the Government House 
+Leader that Bill No. 26, The Legislative Assembly and 
+Executive Council Consequential Amendments Act 2006 be 
+now read a second time. The Chair recognizes the member for 
+Saskatoon Southeast. 
+ 
+Mr. Morgan: — Mr. Speaker, it is the nature of legislation that 
+it is a matrix of interwoven pieces of legislation where one Bill 
+is referenced in another and there’s changes to a federal 
+legislation as well that makes reference to varieties of pieces of 
+provincial legislation, and we have created this complex maze 
+and network of legislation where a change in one has a series of 
+changes all the way down. So quite frequently when we pass 
+legislation, we have to have consequential amendment pieces of 
+legislation going with it. In this particular Bill, we have several 
+pieces of other legislation —The Members’ Conflict of Interest 
+Act and a number of others — that will require amendments 
+and change for the sake of consistency. 
+ 
+This is a remarkable amount of work for the legislative drafts 
+people to stay up and try and link all of the pieces of legislation 
+so that when there’s a change in one they have to go through 
+each and every other piece of legislation and maintain tables so 
+that they know which pieces of legislation are affected so that 
+we don’t inadvertently create orphaned pieces of legislation or 
+create further and other inconsistencies. We have to have some 
+degree of reliance on the legislative drafts people to ensure that 
+they are doing their job, following through to make sure that 
+they don’t miss things and that they don’t accidentally create 
+problems that are elsewhere. 
+ 
+I find it somewhat surprising that with that much depth and 
+work that they go to that we actually find typos with all the 
+people that look at them, all of the hands that it goes through, 
+
+
+
+366 Saskatchewan Hansard November 13, 2006 
+
+that we find misspellings, a mis-year here, here or there, so I 
+guess as they say, to err is human and to forgive is legislative. 
+ 
+It is our duty to ensure that we correct and deal with those 
+amendments as they are required and as the circumstances arise. 
+So this Bill, Mr. Speaker, is one that we will take under 
+advisement, as we did the other one, and go through the same 
+detailed method of consultation and discussion, line-by-line, 
+word-by-word review that our researches I know are looking 
+forward to getting into. There is some significant importance to 
+this legislation, Mr. Speaker, because this is the legislation is 
+the backbone and core of this Assembly, and we want to ensure 
+that it’s given due consideration and very careful analysis. Mr. 
+Speaker, I am pleased to move adjournment of debate. 
+ 
+Some Hon. Members: — Hear, hear! 
+ 
+The Speaker: — It has been moved by the member for 
+Saskatoon Southeast that debate on second reading of Bill No. 
+26 be now adjourned. Is it the pleasure of the Assembly to 
+adopt the motion? 
+ 
+Some Hon. Members: — Agreed. 
+ 
+The Speaker: — Motion is carried. The Chair recognizes the 
+Government House Leader. 
+ 
+Hon. Mr. Hagel: — Mr. Speaker, I move this House do now 
+adjourn. 
+ 
+The Speaker: — It has been moved by the Government House 
+Leader that this House do now adjourn. Is it the pleasure of the 
+Assembly to adopt that motion? 
+ 
+Some Hon. Members: — Agreed. 
+ 
+The Speaker: — Motion is carried. This House stands 
+adjourned until tomorrow 1:30 p.m. 
+ 
+[The Assembly adjourned at 19:35.] 
+ 
+ 
+
+
+
+ TABLE OF CONTENTS 
+
+EVENING SITTING 
+GOVERNMENT ORDERS 
+SECOND READINGS 
+ Bill No. 23 — The Securities Transfer Act 
+  Quennell.....................................................................................................................................................................................361 
+  Wakefield...................................................................................................................................................................................362 
+ Bill No. 24 — The Alcohol and Gaming Regulation Amendment Act, 2006 
+ Loi de 2006 modifiant la Loi de 1997 sur la réglementation des boissons alcoolisées et des jeux de hasard 
+  Higgins .......................................................................................................................................................................................362 
+  Morgan ......................................................................................................................................................................................363 
+ Bill No. 25 — The Legislative Assembly and Executive Council Act, 2006 
+ Loi de 2006 sur l’Assemblée législative et le Conseil exécutif 
+  Hagel ..........................................................................................................................................................................................364 
+  Morgan ......................................................................................................................................................................................364 
+ Bill No. 26 — The Legislative Assembly and Executive Council Consequential Amendments Act, 2006 
+  Hagel ..........................................................................................................................................................................................365 
+  Morgan ......................................................................................................................................................................................365 
+ 
+
+
+
+GOVERNMENT OF SASKATCHEWAN 
+CABINET MINISTERS 
+
+_____________________________________________________ 
+ 
+
+ 
+Hon. Lorne Calvert 
+
+Premier 
+ 
+
+Hon. Graham Addley 
+Minister of Healthy Living Services 
+
+Minister Responsible for Seniors 
+ 
+
+Hon. Pat Atkinson 
+Minister of Advanced Education and Employment 
+
+Minister Responsible for Immigration 
+Minister Responsible for the Public 
+
+Service Commission 
+ 
+
+Hon. Joan Beatty 
+Minister of Northern Affairs 
+
+Minister Responsible for the Status of Women 
+ 
+
+Hon. Buckley Belanger 
+Minister of Community Resources 
+
+Minister Responsible for Disability Issues 
+ 
+
+Hon. Eric Cline 
+Minister of Industry and Resources 
+
+Minister Responsible for Investment 
+Saskatchewan Inc. 
+
+Minister Responsible for Information Services 
+Corporation of Saskatchewan 
+
+ 
+Hon. David Forbes 
+
+Minister of Labour 
+Minister Responsible for Saskatchewan 
+
+Water Corporation 
+ 
+
+Hon. Glenn Hagel 
+Minister of Culture, Youth and Recreation 
+
+Provincial Secretary 
+Minister Responsible for Gaming 
+
+Minister Responsible for Saskatchewan  
+Government Insurance 
+
+ 
+Hon. Deb Higgins 
+Minister of Learning 
+
+Minister Responsible for Literacy 
+Minister Responsible for Liquor and 
+
+Gaming Authority 
+Minister Responsible for Saskatchewan 
+
+Telecommunications 
+
+Hon. Eldon Lautermilch 
+Minister of Highways and Transportation 
+
+Minister of Property Management 
+Minister Responsible for Saskatchewan 
+
+Transportation Company 
+Minister Responsible for the 
+
+Forestry Secretariat 
+ 
+
+Hon. Warren McCall 
+Minister of Corrections and Public Safety 
+
+ 
+Hon. John Nilson 
+
+Minister of Environment 
+Minister Responsible for the Office of 
+
+Energy Conservation 
+Minister Responsible for Saskatchewan 
+
+Power Corporation 
+ 
+
+Hon. Frank Quennell 
+Minister of Justice and 
+
+Attorney General 
+ 
+
+Hon. Clay Serby 
+Deputy Premier 
+
+Minister of Regional Economic and 
+Co-operative Development 
+
+ 
+Hon. Maynard Sonntag 
+
+Minister of First Nations and Métis Relations 
+Minister of Crown Investments Corporation 
+
+of Saskatchewan 
+ 
+
+Hon. Len Taylor 
+Minister of Health 
+
+ 
+Hon. Andrew Thomson 
+
+Minister of Finance 
+Minister Responsible for Information Technology 
+
+Minister Responsible for  
+SaskEnergy Incorporated 
+
+ 
+Hon. Harry Van Mulligen 
+
+Minister of Government Relations 
+ 
+
+Hon. Mark Wartman 
+Minister of Agriculture and Food 
+
+ 
+
+
