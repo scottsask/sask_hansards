@@ -7,7 +7,7 @@ import os
 #Take out "Hansard Saskatchewan" page headers
 #Sometimes its just a date per page, so \nDate\n.  Always the date of the pub, maybe look for that.
 
-speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon\. Member|Premier|Hon\.|Ms\.|Some).*?:\s?(—|-{1,2}| )\s?)', re.UNICODE|re.IGNORECASE)
+speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon\. Member|Premier|Hon\.|Ms\.|Some).*?:\s*(—|–|-{1,2}| |)\s*)', re.UNICODE|re.IGNORECASE)
 
 ### REMOVING RESIDUAL PAGE HEADER/FOOTER CRUFT
 
@@ -29,8 +29,10 @@ for filename in os.listdir(data_directory):
 #        text.decode("utf-8").replace(u"\u2014","--")
 #        print("REPLACED!")
 
+        found_counter = 0
         for found in re.findall(speaker, text):
-            print(found[0]) #the 0th element is the whole match
+            found_counter += 1
+            #print(found[0]) #the 0th element is the whole match
             #print(found[1])
 
         #Regex text cleaning pipeline, remove all that page crap
@@ -43,7 +45,8 @@ for filename in os.listdir(data_directory):
         #f.write(cleanest_text)
         #f.write(cleanest_text)
         #f.close()
-
+        if (found_counter==0):
+          print("Found: " + str(found_counter) + " in " + filename)
 
 
 
