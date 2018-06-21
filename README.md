@@ -35,7 +35,9 @@ Note:  The above primary source PDFs and corresponding .txt files are up to date
 Project Files
 ---
 get_hansards.py -- attempts to download and consistently rename every Hansard debate PDF
+
 hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file downloaded, leaving a .txt file for each pdf
+
 hansard_txt_cleanup.py -- remove repeated page data and page numbers
 
 ---
