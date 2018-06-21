@@ -46,11 +46,30 @@ Remove page header dates, page numbers, misc cruft leftover from the PDF to text
 ---
 Todo: Data Augmentation
 ---
+Create basic document hierarchy using Hansard sections, e.g. "ORDERS OF THE DAY"
+
 Normalize speaker names
 
 Label all subject/topic headings
 
 Extract prologues, tables of contents, etc
+
+The goal is to produce a structured document for each Hansard, maybe something like:
+```
+<Hansard>
+  <Section>
+  ORDERS OF THE DAY
+    <Speaker>Mr. Douglas</Speaker><SpokenWords>Things Mr. Douglas said</SpokenWords>
+
+    <Topic>Universal Healthcare
+      <Speaker>Mr. Douglas</Speaker><SpokenWords>Some words about healthcare</SpokenWords>
+    </Topic>
+
+  </Section>
+</Hansard>
+```
+    
+  
 
 
 ---
