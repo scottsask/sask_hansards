@@ -1,16 +1,14 @@
-This project attempts to extract data from Saskatchewan Legislature Hansard debate files into a machine readable format.
-The files are provided in PDF format.
+This project attempts to convert all Saskatchewan Legislature Hansard debate transcripts, which are provided in PDF format, into a machine readable format.
 
-There are some critical issues with the repository:
+After submitting a form on this page http://www.legassembly.sk.ca/legislative-business/meetings/ a complete listing of Hansard PDFs available for download is generated.  The file get_hansards.py attempts to submit this form, retrieve all download links, then consistently rename and download each PDF.
 
-1)  Debates through 1976-1977 cannot be accessed, it looks like they are stored on Azure and have a different path than the rest of the data set.  Someone didn't maintain these links.
+There are some major issues with the source repository:
 
-2)  No checksum is provided for the downloads, so files cannot be verified for integrity or authenticity.
+1)  No checksum is provided for the downloads, so files cannot be verified for integrity or authenticity.
 
-3)  The 20th Legislature, 5th Session (20L5S) folder is sitting inside the 22nd Legislature, 2nd Session's (22L2S) folder.  This is currently accounted for when downloading and naming the files.  It was likely drag-n-dropped in a file explorer/FTP program at some time.
+2)  The 20th Legislature, 5th Session (20L5S) folder is sitting inside the 22nd Legislature, 2nd Session's (22L2S) folder.  This is currently accounted for when downloading and naming the files.  It was likely drag-n-dropped in a file explorer/FTP program at some time.
 
-4)  There are two seperate, slightly different PDFs available for the some debates, I'm not sure why at this moment but haven't investigated closely.
-
+3)  There are two seperate, slightly different PDFs available for the some debates, I'm not sure why.
 
 General Overview:
 The PDFs are largely self-similar between 1947-1983.  They begin to vary quite a bit after that.
@@ -41,21 +39,27 @@ hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file 
 hansard_txt_cleanup.py -- remove repeated page data and page numbers
 
 ---
-Cleanup
+Todo: Cleanup
 ---
-Remove page header dates, page numbers
-Remove prologues
-Handle subject/topic headings
+Remove page header dates, page numbers, misc cruft leftover from the PDF to text conversion process
 
 ---
-Normalizing Speaker Names
+Todo: Data Augmentation
 ---
 Normalize speaker names
 
+Label all subject/topic headings
+
+Extract prologues, tables of contents, etc
+
+
 ---
-Associate Additional Data with Speakers
+Todo: Create a database enabling us to associate additional data with all speakers
 ---
 Party Affiliation
+
 Riding represented
+
 Gender
+
 Portfolios
