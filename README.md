@@ -1,3 +1,7 @@
+---
+Toward Machine Readable Saskatchewan Hansards
+---
+
 This project attempts to convert all Saskatchewan Legislature Hansard debate transcripts, which are provided in PDF format, into a machine readable format.
 
 After submitting a form on this page http://www.legassembly.sk.ca/legislative-business/meetings/ a complete listing of Hansard PDFs available for download is generated.  The file get_hansards.py attempts to submit this form, retrieve all download links, then consistently rename and download each PDF.
