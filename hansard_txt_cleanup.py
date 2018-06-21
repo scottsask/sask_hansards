@@ -7,7 +7,7 @@ import os
 #Take out "Hansard Saskatchewan" page headers
 #Sometimes its just a date per page, so \nDate\n.  Always the date of the pub, maybe look for that.
 
-speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon. Member|Premier|Hon\.|Ms\.).*?:\s?[—|\-{1,2}| ])', re.UNICODE)
+speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon\. Member|Premier|Hon\.|Ms\.).*?:\s?(—|-{1,2}| ))', re.UNICODE)
 
 ### REMOVING RESIDUAL PAGE HEADER/FOOTER CRUFT
 
@@ -22,7 +22,7 @@ page_number_regex = r"(\n)(\d|\d\d|\d\d\d|\d\d\d\d)(\s?)(\n)"
 
 data_directory = './hansard_txts/'
 for filename in os.listdir(data_directory):
-    if filename.startswith('194'):
+    if filename.startswith('195'):
         with open(data_directory + filename, 'rw+') as f:
 		text = f.read()
 
