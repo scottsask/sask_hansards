@@ -7,13 +7,7 @@ import os
 #Take out "Hansard Saskatchewan" page headers
 #Sometimes its just a date per page, so \nDate\n.  Always the date of the pub, maybe look for that.
 
-#HARD PROBLEMS
-#Headings/subject topics in the transcripts
-#normalizing/labelling speaker names, titles, riding associations, party etc
-
-speaker = re.compile(r'(\n.*:\s?[—|\-{1,2}])', re.UNICODE | re.DOTALL)
-
-
+speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon. Member|Premier|Hon\.|Ms\.).*?:\s?[—|\-{1,2}| ])', re.UNICODE)
 
 ### REMOVING RESIDUAL PAGE HEADER/FOOTER CRUFT
 
@@ -26,24 +20,18 @@ date_regex = r"(\n)(January|February|March|April|May|June|July|August|September|
 #There are page numbers, that often have a space after them, hanging out alone on a line by themselves sometimes as well
 page_number_regex = r"(\n)(\d|\d\d|\d\d\d|\d\d\d\d)(\s?)(\n)"
 
-#Tricky part...try for subject headings...that are words that are capitalized consecutively, or all caps, on a line, usually.
-#caps_subject_heading = r"\n[A-Z][A-Z]*\s+[A-Z][A-Z]*\s+"
-caps_subject_heading = r"\n[A-Z][A-Z]*\s+"
-
-
-
-
-data_directory = './data/cleaned_data/'
+data_directory = './hansard_txts/'
 for filename in os.listdir(data_directory):
-    if filename.endswith('.txt'):
+    if filename.startswith('194'):
         with open(data_directory + filename, 'rw+') as f:
 		text = f.read()
 
 #        text.decode("utf-8").replace(u"\u2014","--")
 #        print("REPLACED!")
 
-        for found in re.findall(caps_subject_heading, text):
-            print(found)
+        for found in re.findall(speaker, text):
+            print(found[0]) #the 0th element is the whole match
+            #print(found[1])
 
         #Regex text cleaning pipeline, remove all that page crap
         #clean_text = re.sub(date_regex, '',  text)
@@ -65,6 +53,3 @@ for filename in os.listdir(data_directory):
 #    remove_hansard_headers()
 
 #def remove_page_dates(lines):
-
-#regex
-#looks for "someone: -- "

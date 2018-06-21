@@ -4,7 +4,10 @@ tika.initVM()
 
 #you must have tika-server downloaded and running
 #https://tika.apache.org/download.html
-#you can 'pip install tika'
+#'pip install tika' will grab the library used by this script to interact with the Tika server
+
+#once the tika server is running, you can place this script in the folder containing Hansard PDFs
+#run the script to convert the PDFs to txt files
 
 from tika import parser
 

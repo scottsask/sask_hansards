@@ -18,15 +18,25 @@ The PDFs are largely self-similar between 1947-1983.  They begin to vary quite a
 Strategy:
 Target a large portion of the dataset first, 1947-1983, then deal with the rest.
 
+---
+Working Files (quick start)
+---
+All PDF files downloaded as of June 6th, 2018 using the get_hansards.py script:
+https://hansards.nyc3.digitaloceanspaces.com/2018-Jun-06-hansard_pdfs.tar.gz
+
+All plain text files extracted from the above PDFs using Apache Tika and the hansard_pdfs_to_txt.py script:
+https://hansards.nyc3.digitaloceanspaces.com/2018-Jun-06-hansard_txts.tar.gz
+
+
+Note:  The above primary source PDFs and corresponding .txt files are up to date as of June 6th, 2018.
+
 
 ---
 Project Files
 ---
-download.py -- attempts to download and consistently rename every Hansard debate PDF
-extract.py -- uses Tika to extract all text data from each PDF file downloaded, leaving a .txt file for each pdf
-clean.py -- remove repeated page data and page numbers
-normalize.py -- label subject headings, convert em dashes to double dashes
-main.py -- output a machine readable format
+get_hansards.py -- attempts to download and consistently rename every Hansard debate PDF
+hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file downloaded, leaving a .txt file for each pdf
+hansard_txt_cleanup.py -- remove repeated page data and page numbers
 
 ---
 Cleanup
