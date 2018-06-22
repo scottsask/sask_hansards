@@ -7,11 +7,15 @@ import os
 ### Regex for identifying speakers
 ###
 
-#This regex covers the majority of documents quite well, 5058/5137 total documents match this pattern corectly
+#finds speakers in the majorityy of documents, 5058/5137 total documents have at least 1 match
 speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon\. Member|Premier|Hon\.|Ms\.|Some).*?:\s*(—|–|-{1,2}| |)\s*)', re.UNICODE|re.IGNORECASE)
 
-#This regex is for the remaning ~100 or so documents that have a different formatting
-speaker_alternative = ''
+
+#for the remaning ~100 or so documents that have a different formatting for speakers
+#e.g.:
+#MR. A. THIBAULT: (Melfort-Kinistino)
+#SOME HON. MEMBERS:
+speaker_alternative = re.compile(r'(\n(mr|some|hon|mrs|ms).*?:\s*)(\(*.+\))?', re.UNICODE|re.IGNORECASE)
 
 ###
 ### Regex for cleaning up Hansard per page formatting, e.g. page numbers or redundant title information
@@ -55,21 +59,29 @@ for filename in os.listdir(data_directory):
         if (found_counter != 0):
             hansards_with_speakers += 1
 
+        #second pass using alternative regex
         #show text of hansards that found 0 speakers with the speaker regex
         if (found_counter==0):
-          hansards_without_speakers.append(filename)
-          #print("Found: " + str(found_counter) + " in " + filename)
-          #print(text)
+          for found in re.findall(speaker_alternative, text):
+            found_counter += 1
+            print(found[0])
+            #print("Found: " + str(found_counter) + " in " + filename)
+          if (found_counter != 0):
+            hansards_with_speakers += 1
+          if (found_counter == 0):
+            #print(text)
+            hansards_without_speakers.append(filename)
 
 
 print(str(hansards_with_speakers) + " out of " + str(total_files) + " have speakers in them \n")
 
 
-print("These files currently have 0 speakers detected in them: \n")
+
+print("These " + str(len(hansards_without_speakers)) + " files currently have 0 speakers detected in them: \n")
 print(str(hansards_without_speakers))
 
-
-
+#Really odd formatting:
+#1955_3_28_12L3S_550328Debates.txt
 
 
 
