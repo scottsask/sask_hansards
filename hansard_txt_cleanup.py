@@ -15,7 +15,7 @@ speaker = re.compile(r'(\n(Mr\.|Mrs\.|An Hon\. Member|Premier|Hon\.|Ms\.|Some).*
 #e.g.:
 #MR. A. THIBAULT: (Melfort-Kinistino)
 #SOME HON. MEMBERS:
-speaker_alternative = re.compile(r'(\n(mr|some|hon|mrs|ms).*?:\s*)(\(*.+\))?', re.UNICODE|re.IGNORECASE)
+speaker_alternative = re.compile(r'((\n(mr|some|hon|mrs|ms).*?:\s*)(\(*.+\))?)', re.UNICODE|re.IGNORECASE)
 
 ###
 ### Regex for cleaning up Hansard per page formatting, e.g. page numbers or redundant title information
@@ -42,7 +42,7 @@ for filename in os.listdir(data_directory):
         found_counter = 0 #counting number of matches in a document
         for found in re.findall(speaker, text):
             found_counter += 1
-            print(found[0]) #the 0th element is the whole match
+            #print(found[0]) #the 0th element is the whole match
             #print(found[1])
 
         #Regex text cleaning pipeline, remove all that page crap
