@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import re
 import os
+import pprint
 
 
 ###
@@ -42,7 +43,7 @@ for filename in os.listdir(data_directory):
         found_counter = 0 #counting number of matches in a document
         for found in re.findall(speaker, text):
             found_counter += 1
-            #print(found[0]) #the 0th element is the whole match
+            print(found[0]) #the 0th element is the whole match
             #print(found[1])
 
         #Regex text cleaning pipeline, remove all that page crap
@@ -73,12 +74,16 @@ for filename in os.listdir(data_directory):
             hansards_without_speakers.append(filename)
 
 
-print(str(hansards_with_speakers) + " out of " + str(total_files) + " have speakers in them \n")
+print("\n" + str(hansards_with_speakers) + " out of " + str(total_files) + " have speakers in them \n")
 
 
 
 print("These " + str(len(hansards_without_speakers)) + " files currently have 0 speakers detected in them: \n")
-print(str(hansards_without_speakers))
+
+
+pp = pprint.PrettyPrinter(indent=4)
+pp.pprint(hansards_without_speakers)
+print("\n")
 
 #Really odd formatting:
 #1955_3_28_12L3S_550328Debates.txt
