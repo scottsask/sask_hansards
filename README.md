@@ -42,6 +42,8 @@ hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file 
 
 hansard_txt_cleanup.py -- remove repeated page data and page numbers
 
+identify_speakers.py -- regular expressions and loops for identifying speaking parts in sask hansards
+
 ---
 Todo: Cleanup
 ---
