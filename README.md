@@ -88,3 +88,11 @@ Riding represented
 Gender
 
 Portfolios
+
+
+---
+Handy Tricks
+---
+Create a diff file showing changes between original and clean up
+
+```for file in hansard_txts/*.txt; do diff "$file" "cleaned_txts/${file##*/}"; done > diffs.txt```

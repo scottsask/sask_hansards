@@ -8,16 +8,17 @@ import pprint
 ### Regex for identifying speakers
 ###
 
-#finds speakers in the majorityy of documents, 5058/5137 total documents have at least 1 match
+#finds speakers in the majority of documents, 5058/5137 total documents have at least 1 match
 speaker = re.compile(r'(\n(his honour|her honour|mr\.|mrs\.|an hon\. member|premier|hon\.|ms\.|some).*?:\s*(─|—|–|-{1,2}| |)\s*)', re.UNICODE|re.IGNORECASE)
-
 
 #for the remaning ~100 or so documents that have a different formatting for speakers
 #e.g.:
 #MR. A. THIBAULT: (Melfort-Kinistino)
 #SOME HON. MEMBERS:
-speaker_alternative = re.compile(r'((\n(his honour|her honour|mr|some|hon|mrs|ms).*?:\s*)(\(*.+\))?)', re.UNICODE|re.IGNORECASE)
+speaker_alternative = re.compile(r'((\n(his honour|her honour|mr|some|hon|mrs|ms).*?:\s*)(\(*.+\))+?)', re.UNICODE|re.IGNORECASE)
 
+#we can be specific about this one
+some_hon_members = re.compile(r'(\n(Some Hon\. Members:.*\n))')
 
 data_directory = './hansard_txts/'
 total_files = 0 #keep track of how many files we've looked at
@@ -34,7 +35,7 @@ for filename in os.listdir(data_directory):
         found_counter = 0 #counting number of matches in a document
         for found in re.findall(speaker, text):
             found_counter += 1
-            print(found[0]) #the 0th element is the whole match
+            #print(found[0]) #the 0th element is the whole match
             #print(found[1])
 
         if (found_counter != 0):
@@ -60,13 +61,13 @@ for filename in os.listdir(data_directory):
             #for found in re.findall(speaker_alternative, text):
               #print(found[0])
  
-          if (found_counter != 0):
-            hansards_with_speakers += 1
-            total_speaking_parts_identified += found_counter
+          #if (found_counter != 0):
+            #hansards_with_speakers += 1
+            #total_speaking_parts_identified += found_counter
 
-          if (found_counter == 0):
+          #if (found_counter == 0):
             #print(text)
-            hansards_without_speakers.append(filename)
+            #hansards_without_speakers.append(filename)
         
 
 print("\n" + str(hansards_with_speakers) + " out of " + str(total_files) + " have speakers in them \n")
