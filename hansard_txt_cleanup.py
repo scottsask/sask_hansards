@@ -36,10 +36,16 @@ date_regex = re.compile(r'\n((January|February|March|April|May|June|July|August|
 page_number_regex = re.compile(r'\n[0-9]{1,4}\s?\n')
 
 
-data_directory = '/home/scott/Hansard/sask_hansards/'
+output_dir = "cleaned_txts"
+
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+
+data_directory = '/home/scott/Documents/sask_hansards/'
 for filename in os.listdir(data_directory + "hansard_txts/"):
     if filename.endswith('txt'):
-        with open(data_directory + 'hansard_txts/' + filename, 'rw+') as f:
+        with open(data_directory + 'hansard_txts/' + filename, 'r') as f:
 
             text = f.read()
 

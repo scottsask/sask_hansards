@@ -21,7 +21,7 @@ Strategy:
 Target a large portion of the dataset first, 1947-1983, then deal with the rest.
 
 ---
-Working Files (quick start)
+Quick Start -- Just download an archive of already renamed PDFs and converted texts
 ---
 All PDF files downloaded as of June 6th, 2018 using the get_hansards.py script:
 https://hansards.nyc3.digitaloceanspaces.com/2018-Jun-06-hansard_pdfs.tar.gz
@@ -34,7 +34,7 @@ Note:  The above primary source PDFs and corresponding .txt files are up to date
 
 
 ---
-Project Files
+From Scratch -- Scrape the Saskatchewan Legislative Assembly site for the Hansard PDFs, convert them to text with Apache Tika
 ---
 To get started:
 ```
@@ -50,24 +50,28 @@ pip3 install -r requirements.txt
 
 ```
 
-Next, download all the Hansard PDF files to a folder hansard_pdfs/ and consistently rename each one
+Next, download all the Hansard PDF files to a folder hansard_pdfs/ and consistently rename each one.  This can take a while.
 ```
 python3 get_hansards.py
 ```
 
-Once all the Hansards are downloaded, we need to convert the PDFs to plaintext files
-Download and and start running Apache Tika Server (http://www.apache.org/dyn/closer.cgi/tika/tika-server-1.18.jar)
+Once all the Hansards are downloaded, we need to convert the PDFs to plaintext files.
+Download and and start running Apache Tika Server (http://www.apache.org/dyn/closer.cgi/tika/tika-server-1.18.jar):
 ```
 wget http://mirror.csclub.uwaterloo.ca/apache/tika/tika-server-1.18.jar
 java -jar tika-server1.18.jar
 ```
 
-With Tika running, in a new terminal window run
+With Tika running, in a new terminal window we can convert the Hansard PDFs to plaintext files now (again, this can take a while):
 ```
 python3 hansard_pdfs_to_txt.py
 ```
 
-hansard_txt_cleanup.py -- remove repeated page data and page numbers
+We'll remove repeated per-page data and other data we won't be using:
+```
+python3 hansard_txt_cleanup.py
+```
+
 
 identify_speakers.py -- regular expressions and loops for identifying speaking parts in sask hansards
 
