@@ -7,9 +7,9 @@ The PDF files for each debate are then downloaded and (re)named consistently.
 
 import requests
 from bs4 import BeautifulSoup
-from urlparse import urlparse
+from urllib.parse import urlparse
+import urllib.request
 from datetime import datetime
-import wget
 import time
 import os
 
@@ -23,7 +23,6 @@ session = requests.Session()
 #Request the page and parse its markup with BeautifulSoup
 meeting_selection_page = session.get(meetings_endpoint)
 soup = BeautifulSoup(meeting_selection_page.content, 'html.parser')
-
 
 #Find magic values we need in the soup to make a valid form submission
 #These are hidden inputs the ASP.net form requires to submit
@@ -66,12 +65,11 @@ form_body = {
 response_post = session.post(url=meetings_endpoint,data=form_body)
 #The response we get should be a soupy DOM with a bunch of links to the hansards we want to download 
 hansard_debates_listing_soup = response_post.content
-print(hansard_debates_listing_soup)
 #Make that soup beautiful!
 soup = BeautifulSoup(hansard_debates_listing_soup, 'html.parser')
 
+
 #The debate PDFs are all links on the page, so pull them out of the beautiful soup
-links = soup.find_all('a')
 
 #The files we need look like '/legdocs/Legislative%20Assembly/Hansard/<# legislature>L<# session>S/<date>filename.pdf'
 #We'll extract the legislature number and session number from the path.
@@ -121,12 +119,16 @@ def parse_leg_and_session(leg_and_session):
 
 
 
-#so loop over the href of each link
+links = soup.find_all('a', href=True)
+
+#loop over the href of each link
 for link in links:
-    url = link.get('href')
+
+    url = link['href']
+
     if url:
         parsed_url = urlparse(url) #parse the URL into its various components
-        path = parsed_url[2] #the path is the second element returned by urlparse
+        path = parsed_url.path #the path is the second element returned by urlparse
         
         #We only want the Hansard debates, they have a consistent path described above
         #so check for that path
@@ -159,13 +161,16 @@ for link in links:
             if not os.path.exists(data_dir):
                     os.makedirs(data_dir)
 
-            #Keep trying if the download fails.  TODO: Handle it with hash/verify/retry
-            while True:
-                try:
-                    download_file = wget.download(url,out=data_dir + '/' + download_filename)
-                except:
-                    continue
-                break
 
-            print("SUCCESS:")
-            print(download_file)
+            if not os.path.exists(data_dir + '/' + download_filename):
+                while True:
+                        try:
+                            download_file = urllib.request.urlretrieve(url, data_dir + '/' + download_filename)
+                            print("SUCCESS:")
+                            print(download_file)
+                            break
+                        except Exception as e:
+                            print(e)
+                            break
+            else:
+                print("File " + download_filename + " already exists")

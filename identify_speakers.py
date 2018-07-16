@@ -29,13 +29,13 @@ total_speaking_parts_identified = 0 #increment this for every speaking part we f
 for filename in os.listdir(data_directory):
     #if filename.startswith('19'):
         total_files += 1
-        with open(data_directory + filename, 'rw+') as f:
-		text = f.read()
+        with open(data_directory + filename, 'r') as f:
+            text = f.read()
 
         found_counter = 0 #counting number of matches in a document
         for found in re.findall(speaker, text):
             found_counter += 1
-            #print(found[0]) #the 0th element is the whole match
+            print(found[0]) #the 0th element is the whole match
             #print(found[1])
 
         if (found_counter != 0):
@@ -61,13 +61,13 @@ for filename in os.listdir(data_directory):
             #for found in re.findall(speaker_alternative, text):
               #print(found[0])
  
-          #if (found_counter != 0):
-            #hansards_with_speakers += 1
-            #total_speaking_parts_identified += found_counter
+          if (found_counter != 0):
+            hansards_with_speakers += 1
+            total_speaking_parts_identified += found_counter
 
-          #if (found_counter == 0):
+          if (found_counter == 0):
             #print(text)
-            #hansards_without_speakers.append(filename)
+            hansards_without_speakers.append(filename)
         
 
 print("\n" + str(hansards_with_speakers) + " out of " + str(total_files) + " have speakers in them \n")

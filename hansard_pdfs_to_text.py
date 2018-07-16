@@ -3,7 +3,8 @@ import tika
 tika.initVM()
 
 #you must have tika-server downloaded and running
-#https://tika.apache.org/download.html
+#http://www.apache.org/dyn/closer.cgi/tika/tika-server-1.18.jar
+
 #'pip install tika' will grab the library used by this script to interact with the Tika server
 
 #once the tika server is running, you can place this script in the folder containing Hansard PDFs
@@ -11,24 +12,29 @@ tika.initVM()
 
 from tika import parser
 
+data_dir = "hansard_pdfs"
+output_dir = "hansard_txts"
 
-for fn in os.listdir('.'):
-    if os.path.isfile(fn) and not fn.startswith('.'):
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+
+for fn in os.listdir('./' + data_dir):
+    if os.path.isfile(data_dir + '/' + fn) and not fn.startswith('.'):
 
         print("file:")
         print(fn)
 
-        text = parser.from_file(fn)
+        filename, file_extension = os.path.splitext(fn) 
+
+        text = parser.from_file(data_dir + '/' + fn)
 
         metadata = text["metadata"]
         content = text["content"]
 
-        for item in metadata:
-            print(item)
+        to_text = filename + '.txt'
 
-        to_text = 'text_' + fn + '.txt'
-
-        f = open(to_text, 'w+')
-        f.write(metadata)
+        f = open(output_dir + '/' + to_text, 'wb')
+        #f.write(str(metadata))
         f.write(content.encode('utf8'))
         f.close()
