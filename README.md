@@ -49,9 +49,23 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 
 ```
-get_hansards.py -- attempts to download and consistently rename every Hansard debate PDF
 
-hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file downloaded, leaving a .txt file for each pdf
+Next, download all the Hansard PDF files to a folder hansard_pdfs/ and consistently rename each one
+```
+python3 get_hansards.py
+```
+
+Once all the Hansards are downloaded, we need to convert the PDFs to plaintext files
+Download and and start running Apache Tika Server (http://www.apache.org/dyn/closer.cgi/tika/tika-server-1.18.jar)
+```
+wget http://mirror.csclub.uwaterloo.ca/apache/tika/tika-server-1.18.jar
+java -jar tika-server1.18.jar
+```
+
+With Tika running, in a new terminal window run
+```
+python3 hansard_pdfs_to_txt.py
+```
 
 hansard_txt_cleanup.py -- remove repeated page data and page numbers
 
