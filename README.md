@@ -36,6 +36,19 @@ Note:  The above primary source PDFs and corresponding .txt files are up to date
 ---
 Project Files
 ---
+To get started:
+```
+git clone https://github.com/scottsask/sask_hansards.git
+
+cd sask_hansards
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip3 install -r requirements.txt
+
+```
 get_hansards.py -- attempts to download and consistently rename every Hansard debate PDF
 
 hansard_pdfs_to_txt.py -- uses Tika to extract all text data from each PDF file downloaded, leaving a .txt file for each pdf
